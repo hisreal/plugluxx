@@ -44,7 +44,8 @@
 
 <body>
     <!-- Preloader -->
-    <div class="preloader">
+    <!-- Preloader -->
+    <!--<div class="preloader">
         <div class="centered">
             <div class="cont">
                 <div class="loader-circle"></div>
@@ -54,7 +55,8 @@
                 <img src="img/plug_logo.png" alt="The Plug Luxx logo">
             </div>
         </div>
-    </div>
+    </div>-->
+
 
     <!-- Progress scroll totop -->
     <div class="progress-wrap cursor-pointer">
