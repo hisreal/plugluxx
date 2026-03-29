@@ -5,15 +5,15 @@
                 <div class="section-title2">Mobile App Launching Soon</div>
 
         <div style="background: white; border-radius: 20px; padding: 15px" class="row align-items-center mb-5 py-10">
-    <div class="col-6">
-        <p class="app-intro">
+    <div class="col-6 justify-content-center">
+        <p class="app-intro text-center">
             We are building a seamless mobile experience that gives you faster access to premium services, flexible hosting opportunities, and simple booking management all in one place.
         </p>
     </div>
 
-    <div class="col-6">
+    <div class="col-6 d-flex justify-content-center">
         <div class="mb-20 mt-45">
-            <img class="img-fluid app-image" src="img/5be1d958-887f-4b66-bb5d-9db662d117d6.webp" alt="">        </div>
+            <img class="img-fluid app-image text-center" src="img/5be1d958-887f-4b66-bb5d-9db662d117d6.webp" alt="">        </div>
     </div>
 
 </div>
