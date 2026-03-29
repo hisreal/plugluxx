@@ -2072,7 +2072,7 @@ blockquote cite:before {
         transform: translateY(10px);
     }
 }
-.about .animation-float2 {
+ .animation-float2 {
     animation: float2 4000ms linear 800ms infinite alternate both;
 }
 @keyframes float2 {

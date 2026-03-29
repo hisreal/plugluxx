@@ -2,53 +2,22 @@
 <?php require_once("slider.php"); ?>
 <section class="contact app-launch section-padding bg-lightbrown">
     <div class="container">
-        <div class="row align-items-center mb-5">
-            <div class="col-lg-7 col-md-12">
-                <div class="section-subtitle">Mobile App Launching Soon</div>
-                <div class="section-title2">A smarter way to access luxury on the go</div>
-                <p class="app-intro">
-                    We are building a seamless mobile experience that gives you faster access to premium services, flexible hosting opportunities, and simple booking management all in one place.
-                </p>
-            </div>
+                <div class="section-title2">Mobile App Launching Soon</div>
+
+        <div style="background: white; border-radius: 20px; padding: 15px" class="row align-items-center mb-5 py-10">
+    <div class="col-6">
+        <p class="app-intro">
+            We are building a seamless mobile experience that gives you faster access to premium services, flexible hosting opportunities, and simple booking management all in one place.
+        </p>
+    </div>
+
+    <div class="col-6">
+        <div class="mb-20 mt-45">
+            <img class="img-fluid rounded-2 animation-float1" src="img/5be1d958-887f-4b66-bb5d-9db662d117d6.webp" alt="">
         </div>
+    </div>
 
-        <div class="row g-4">
-            <div class="col-lg-4 col-md-6">
-                <div class="launch-card h-100">
-                    <div class="launch-icon">
-                        <span class="fa-thin fa-calendar-check"></span>
-                    </div>
-                    <h3 class="launch-title">Book luxury services instantly</h3>
-                    <p class="launch-text">
-                        Reserve premium experiences quickly and smoothly from your phone with a user friendly mobile flow.
-                    </p>
-                </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6">
-                <div class="launch-card h-100">
-                    <div class="launch-icon">
-                        <span class="fa-thin fa-user-plus"></span>
-                    </div>
-                    <h3 class="launch-title">Register as a user, host, or co host</h3>
-                    <p class="launch-text">
-                        Create your profile and unlock opportunities whether you want to explore, earn, or grow with the platform.
-                    </p>
-                </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6">
-                <div class="launch-card h-100">
-                    <div class="launch-icon">
-                        <span class="fa-thin fa-wallet"></span>
-                    </div>
-                    <h3 class="launch-title">Manage bookings and earnings</h3>
-                    <p class="launch-text">
-                        Stay in control with an easy dashboard for tracking reservations, income, and activity in real time.
-                    </p>
-                </div>
-            </div>
-        </div>
+</div>
 
         <div class="launch-cta text-center mt-5">
             <div class="section-title2 mb-3">Be among the first to experience it.</div>

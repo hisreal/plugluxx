@@ -7,7 +7,7 @@
                     <p>Discover, explore, and experience premium cars, properties, hotels, and
                          lifestyle services — all in one place.</p>
                 </div>
-               <div style="padding: 10px" class="col-lg-12 col-md-12">
+               <div class="col-lg-12 col-md-12">
                     <div class="button-3"   >
                         <a href="booking-system.html">Explore Listings</a>
                     </div>
