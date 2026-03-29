@@ -6129,7 +6129,6 @@ body.mfp-zoom-out-cur {
     width: 100%;
     height: auto;
     margin-left: auto;
-    box-shadow: 0 20px 50px rgba(0,0,0,0.1);
 }
 
 @media (max-width: 768px) {

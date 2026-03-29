@@ -24,9 +24,7 @@
                 <div class="button-3">
                     <a href="booking-system.html">Get Early Access</a>
                 </div>
-                <div class="button-1">
-                    <a href="booking-system.html">Join Waitlist</a>
-                </div>
+               
             </div>
         </div>
     </div>
