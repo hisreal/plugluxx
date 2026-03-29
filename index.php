@@ -13,8 +13,7 @@
 
     <div class="col-6">
         <div class="mb-20 mt-45">
-            <img class="img-fluid rounded-2 animation-float1" src="img/5be1d958-887f-4b66-bb5d-9db662d117d6.webp" alt="">
-        </div>
+            <img class="img-fluid app-image" src="img/5be1d958-887f-4b66-bb5d-9db662d117d6.webp" alt="">        </div>
     </div>
 
 </div>

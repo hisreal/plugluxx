@@ -6121,3 +6121,20 @@ body.mfp-zoom-out-cur {
         font-size: 14px;
     }
 }
+
+
+
+.app-image {
+    max-width: 300px;
+    width: 100%;
+    height: auto;
+    margin-left: auto;
+    box-shadow: 0 20px 50px rgba(0,0,0,0.1);
+}
+
+@media (max-width: 768px) {
+    .app-image {
+        max-width: 100%;
+        margin-left: 0;
+    }
+}
