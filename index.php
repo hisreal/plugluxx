@@ -1,6 +1,6 @@
 <?php require_once("header.php"); ?>
 <?php require_once("slider.php"); ?>
-<section class="contact app-launch section-padding bg-lightbrown">
+<section class="contact about app-launch section-padding bg-lightbrown">
     <div class="container">
                 <div class="section-title2">Mobile App Launching Soon</div>
 
@@ -13,7 +13,7 @@
 
     <div class="col-6 d-flex justify-content-center">
         <div class="mb-20 mt-45">
-            <img class="img-fluid app-image text-center" src="img/b999bff0-b228-4a9a-9353-cbea3781e562.webp" alt="">        </div>
+            <img class="img-fluid app-image text-center rounded-2 animation-float2" src="img/b999bff0-b228-4a9a-9353-cbea3781e562.webp" alt="">        </div>
     </div>
 
 </div>
@@ -109,13 +109,27 @@
                 </div>
             </div>
 
+             <div class="col-lg-3 col-md-6">
+                <div class="item">
+                    <div class="img">
+                        <img src="img/offers/ins_link_DUfQ96SDV2A_1.webp" alt="Private Jets and Yachts">
+                    </div>
+                    <div class="con">
+                        <div class="title">Private Jets</div>
+                        <div class="arrow">
+                            <a href="#"><span class="fa-light fa-arrow-right"></span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
             <div class="col-lg-3 col-md-6">
                 <div class="item">
                     <div class="img">
-                        <img src="img/offers/DSC04842 copy.jpg123456.webp" alt="Private Jets and Yachts">
+                        <img src="img/offers/viktor-ritsvall-FWJinfDsIn8-unsplash.webp" alt="Private Jets and Yachts">
                     </div>
                     <div class="con">
-                        <div class="title">Private Jets & Yachts</div>
+                        <div class="title">Luxury Yachts</div>
                         <div class="arrow">
                             <a href="#"><span class="fa-light fa-arrow-right"></span></a>
                         </div>
@@ -129,7 +143,7 @@
                         <img src="img/offers/experience.webp" alt="Experiences and Services">
                     </div>
                     <div class="con">
-                        <div class="title">Experiences & Services</div>
+                        <div class="title">Experience</div>
                         <div class="arrow">
                             <a href="#"><span class="fa-light fa-arrow-right"></span></a>
                         </div>
