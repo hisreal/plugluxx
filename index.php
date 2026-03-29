@@ -161,13 +161,13 @@
     <div class="container">
         <div class="row align-items-end mb-5">
             <div class="col-lg-6 col-md-12">
-                <div class="section-subtitle">Why Choose The Plug Luxx</div>
+                <div class="section-subtitle">Why Choose The Plugluxx</div>
                 <h2 class="section-title2 premium-title">Luxury access with real opportunity</h2>
             </div>
 
             <div class="col-lg-6 col-md-12">
                 <p class="premium-intro">
-                    The Plug Luxx connects premium experiences, curated luxury offerings, and income generating opportunities in one refined platform built for modern lifestyles.
+                    The Plugluxx connects premium experiences, curated luxury offerings, and income generating opportunities in one refined platform built for modern lifestyles.
                 </p>
             </div>
         </div>
@@ -227,12 +227,12 @@
 <section class="cta-section">
   <div class="container">
     <div class=" text-center">
-      <div class="cta-badge mb-3">The Plug Luxx</div>
+      <div class="cta-badge mb-3">The Plugluxx</div>
       <h2 class="cta-title mb-3">
         Ready to explore or earn from luxury?
       </h2>
       <p class="cta-text mb-4">
-        Join The Plug Luxx movement today.
+        Join The Plugluxx movement today.
       </p>
 
       <div class="d-flex flex-column flex-sm-row justify-content-center gap-3">

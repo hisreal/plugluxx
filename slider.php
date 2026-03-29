@@ -1,5 +1,5 @@
  <!-- Parallax Image Header -->
-    <section class="parallax-header valign bg-img bg-fixed" data-overlay-dark="7" data-background="img/hero/animate.webp">
+    <section class="parallax-header valign bg-img bg-fixed" data-overlay-dark="5" data-background="img/hero/animate.webp">
         <div class="container">
             <div class="row justify-content-center align-items-center">
                 <div class="col-lg-12 col-md-12">
