@@ -13,7 +13,7 @@
 
     <div class="col-6 d-flex justify-content-center">
         <div class="mb-20 mt-45">
-            <img class="img-fluid app-image text-center" src="img/5be1d958-887f-4b66-bb5d-9db662d117d6.webp" alt="">        </div>
+            <img class="img-fluid app-image text-center" src="img/b999bff0-b228-4a9a-9353-cbea3781e562.webp" alt="">        </div>
     </div>
 
 </div>
