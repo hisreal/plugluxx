@@ -43,7 +43,7 @@
                     </div>
                 </div>
 
-              <div class="col-md-3 offset-md-1 mb-30">
+              <div class="col-md-3 mb-30">
                     <div class="item contact-style">
                         <h3>Contact Us</h3>
 
@@ -71,7 +71,7 @@
                 </div>
 
                 <!-- Subscribe -->
-                <div class="col-md-4 mb-30">
+                <div class="col-md-5 mb-30">
                     <div class="item">
                         <h3>Subscribe</h3>
 
@@ -137,6 +137,27 @@
     <script src="js/select2.js"></script>
     <script src="js/datepicker.js"></script>
     <script src="js/custom.js"></script>
+
+      <!-- Vegas Background Slideshow (vegas.slider kenburns) -->
+    <script>
+        $(document).ready(function() {
+            $('#kenburnsSliderContainer').vegas({
+                slides: [{
+                    src: "img/rooms/01.jpg"
+                },{
+                    src: "img/rooms/02.jpg"
+                },{
+                    src: "img/rooms/03.jpg"
+                }],
+                overlay: true,
+                transition: 'fade2',
+                animation: 'kenburnsUpRight',
+                transitionDuration: 1000,
+                delay: 10000,
+                animationDuration: 20000
+            });
+        });
+    </script>
 </body>
 
 </html>

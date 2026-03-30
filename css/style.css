@@ -6139,6 +6139,202 @@ body.mfp-zoom-out-cur {
 }
 
 
+.app-lunch {
+    max-width: 500px;
+    width: 100%;
+   
+    margin-left: auto;
+}
+
+@media (max-width: 768px) {
+    .app-lunch {
+        max-width: 50%;
+        margin-left: 0;
+    }
+}
+
+.about-luxx-split {
+    position: relative;
+}
+
+.about-image-wrap {
+    position: relative;
+    padding-right: 40px;
+}
+
+.about-image-main {
+    position: relative;
+    overflow: hidden;
+    border-radius: 24px;
+}
+
+.about-image-main img {
+    width: 100%;
+    height: 650px;
+    object-fit: cover;
+    display: block;
+}
+
+.about-floating-card {
+    position: absolute;
+    bottom: 30px;
+    right: 0;
+    max-width: 280px;
+    background: #fff;
+    padding: 22px 24px;
+    border-radius: 18px;
+    box-shadow: 0 14px 35px rgba(0, 0, 0, 0.10);
+    border: 1px solid rgba(18, 90, 82, 0.08);
+}
+
+.about-floating-card .floating-label {
+    display: inline-block;
+    font-size: 12px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #125A52;
+    margin-bottom: 8px;
+    font-weight: 600;
+}
+
+.about-floating-card h4 {
+    font-family: "Gilda Display", serif;
+    font-size: 24px;
+    line-height: 1.35;
+    color: #141414;
+    margin-bottom: 0;
+}
+
+.about-content {
+    padding-left: 20px;
+}
+
+.about-title {
+    font-family: "Gilda Display", serif;
+    font-size: 44px;
+    line-height: 1.2;
+    color: #141414;
+    margin-bottom: 20px;
+}
+
+.about-text {
+    font-size: 16px;
+    line-height: 1.9;
+    color: #666;
+    margin-bottom: 18px;
+}
+
+.about-info-card {
+    background: #fff;
+    padding: 24px 24px;
+    border-radius: 18px;
+    border: 1px solid rgba(18, 90, 82, 0.08);
+    box-shadow: 0 10px 28px rgba(0, 0, 0, 0.05);
+}
+
+.about-info-card h3 {
+    font-family: "Gilda Display", serif;
+    font-size: 26px;
+    color: #141414;
+    margin-bottom: 10px;
+}
+
+.about-info-card p {
+    font-size: 15px;
+    line-height: 1.8;
+    color: #666;
+    margin-bottom: 0;
+}
+
+.values-wrap {
+    margin-top: 25px;
+}
+
+.values-heading {
+    font-family: "Gilda Display", serif;
+    font-size: 28px;
+    color: #141414;
+    margin-bottom: 18px;
+}
+
+.values-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+}
+
+.value-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    background: #fff;
+    padding: 14px 18px;
+    border-radius: 50px;
+    border: 1px solid rgba(18, 90, 82, 0.08);
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.04);
+}
+
+.value-pill i {
+    color: #125A52;
+    font-size: 16px;
+}
+
+.value-pill span {
+    font-size: 14px;
+    color: #444;
+    font-weight: 500;
+}
+
+@media screen and (max-width: 991px) {
+    .about-image-wrap {
+        padding-right: 0;
+    }
+
+    .about-image-main img {
+        height: 500px;
+    }
+
+    .about-floating-card {
+        right: 20px;
+    }
+
+    .about-content {
+        padding-left: 0;
+    }
+
+    .about-title {
+        font-size: 36px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .about-image-main img {
+        height: auto;
+    }
+
+    .about-floating-card {
+        position: relative;
+        bottom: auto;
+        right: auto;
+        margin: 20px auto 0;
+        max-width: 100%;
+    }
+
+    .about-title {
+        font-size: 30px;
+    }
+
+    .about-text {
+        font-size: 15px;
+    }
+
+    .about-info-card h3,
+    .values-heading {
+        font-size: 24px;
+    }
+}
+
+
 .contact-style p,
 .contact-style .phone,
 .contact-style .mail {
@@ -6171,4 +6367,162 @@ body.mfp-zoom-out-cur {
 
 .icon-circle:hover i {
     color: #fff;
+}
+
+.services-premium {
+    position: relative;
+}
+
+.services-title {
+    font-family: "Gilda Display", serif;
+    font-size: 48px;
+    line-height: 1.2;
+    color: #141414;
+    margin-bottom: 16px;
+}
+
+.services-intro {
+    max-width: 780px;
+    margin: 0 auto;
+    font-size: 17px;
+    line-height: 1.9;
+    color: #666;
+}
+
+.service-card {
+    background: #fff;
+    border-radius: 22px;
+    padding: 38px 30px;
+    border: 1px solid rgba(18, 90, 82, 0.08);
+    box-shadow: 0 14px 35px rgba(0, 0, 0, 0.06);
+    transition: all 0.35s ease;
+    text-align: left;
+    height: 100%;
+}
+
+.service-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 20px 45px rgba(0, 0, 0, 0.10);
+}
+
+.service-icon {
+    width: 72px;
+    height: 72px;
+    border-radius: 50%;
+    background: rgba(18, 90, 82, 0.08);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 24px;
+}
+
+.service-icon i {
+    font-size: 30px;
+    color: #125A52;
+    line-height: 1;
+}
+
+.service-heading {
+    font-family: "Gilda Display", serif;
+    font-size: 28px;
+    line-height: 1.3;
+    color: #141414;
+    margin-bottom: 14px;
+}
+
+.service-text {
+    font-size: 15px;
+    line-height: 1.9;
+    color: #666;
+    margin-bottom: 0;
+}
+
+.services-closing {
+    padding: 24px 10px 0;
+}
+
+.closing-title {
+    font-family: "Gilda Display", serif;
+    font-size: 34px;
+    line-height: 1.4;
+    color: #141414;
+    margin-bottom: 0;
+}
+
+.app-notice {
+    background: #fff;
+    border-radius: 18px;
+    padding: 28px 24px;
+    border: 1px solid rgba(18, 90, 82, 0.10);
+    box-shadow: 0 10px 28px rgba(0, 0, 0, 0.05);
+}
+
+.notice-badge {
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #125A52;
+    background: rgba(18, 90, 82, 0.08);
+    padding: 10px 16px;
+    border-radius: 50px;
+    margin-bottom: 14px;
+}
+
+.notice-text {
+    font-size: 15px;
+    line-height: 1.8;
+    color: #666;
+}
+
+@media screen and (max-width: 991px) {
+    .services-title {
+        font-size: 38px;
+    }
+
+    .closing-title {
+        font-size: 28px;
+    }
+
+    .service-heading {
+        font-size: 24px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .services-title {
+        font-size: 30px;
+    }
+
+    .services-intro {
+        font-size: 15px;
+    }
+
+    .service-card {
+        padding: 30px 22px;
+    }
+
+    .service-icon {
+        width: 64px;
+        height: 64px;
+        margin-bottom: 20px;
+    }
+
+    .service-icon i {
+        font-size: 26px;
+    }
+
+    .service-heading {
+        font-size: 22px;
+    }
+
+    .service-text,
+    .notice-text {
+        font-size: 14px;
+    }
+
+    .closing-title {
+        font-size: 24px;
+    }
 }

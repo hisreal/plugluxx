@@ -5,8 +5,9 @@
                 <div class="section-title2">Mobile App Launching Soon</div>
 
         <div style="background: white; border-radius: 20px; padding: 15px" class="row align-items-center mb-5 py-10">
-    <div class="col-6 justify-content-center">
-        <p class="app-intro text-center">
+    
+        <div class="col-6 justify-content-center app-lunch">
+        <p class="app-intro">
             We are building a seamless mobile experience that gives you faster access to premium services, flexible hosting opportunities, and simple booking management all in one place.
         </p>
     </div>
@@ -67,7 +68,7 @@
         </div>
 
         <div class="row">
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <div class="item">
                     <div class="img">
                         <img src="img/offers/DSC04692 copy.jpg12345.webp" alt="Luxury Cars">
@@ -81,7 +82,7 @@
                 </div>
             </div>
 
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <div class="item">
                     <div class="img">
                         <img src="img/offers/luxury_property.webp" alt="Luxury Properties">
@@ -95,7 +96,7 @@
                 </div>
             </div>
 
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <div class="item">
                     <div class="img">
                         <img src="img/offers/short-stay.webp" alt="Hotels and Short Stays">
@@ -109,7 +110,7 @@
                 </div>
             </div>
 
-             <div class="col-lg-3 col-md-6">
+             <div class="col-lg-4 col-md-6">
                 <div class="item">
                     <div class="img">
                         <img src="img/offers/ins_link_DUfQ96SDV2A_1.webp" alt="Private Jets and Yachts">
@@ -123,7 +124,7 @@
                 </div>
             </div>
 
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <div class="item">
                     <div class="img">
                         <img src="img/offers/viktor-ritsvall-FWJinfDsIn8-unsplash.webp" alt="Private Jets and Yachts">
@@ -137,13 +138,13 @@
                 </div>
             </div>
 
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <div class="item">
                     <div class="img">
-                        <img src="img/offers/experience.webp" alt="Experiences and Services">
+                        <img src="img/offers/4225.webp" alt="Experiences and Services">
                     </div>
                     <div class="con">
-                        <div class="title">Experience</div>
+                        <div class="title">Experiences</div>
                         <div class="arrow">
                             <a href="#"><span class="fa-light fa-arrow-right"></span></a>
                         </div>
