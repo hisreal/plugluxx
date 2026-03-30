@@ -1,66 +1,125 @@
    <!-- Footer -->
-    <footer class="footer">
-        <!-- top -->
-        <div class="top">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-4 mb-30">
-                        <div class="item">
-                            <div class="logo"><img src="img/plug_logo.png" alt=""></div>
-                            <p>The PlugLuxx is a modern luxury marketplace built to connect individuals
-                         and businesses to premium experiences across the globe.</p>
-                            <div class="social-icons">
-                                <ul class="list-inline">
-                                    <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                </ul>
-                            </div>
+<footer class="footer">
+    <!-- top -->
+    <div class="top">
+        <div class="container">
+            <div class="row">
+
+                <!-- About -->
+                <div class="col-md-4 mb-30">
+                    <div class="item">
+                        <div class="logo">
+                            <img src="img/plug_logo.png" alt="The Plug Luxx logo">
                         </div>
-                    </div>
-                    <div class="col-md-3 offset-md-1 mb-30">
-                        <div class="item">
-                            <h3>Contact us</h3>
-                            <p>
-                            </p>
-                            <div class="phone"><a href="tel:+410315520900"></a></div>
-                            <div class="mail"><a href="mailto:hi@rixoshotel.com"></a></div>
-                        </div>
-                    </div>
-                    <div class="col-md-4 mb-30">
-                        <div class="item">
-                            <h3>Subscribe</h3>
-                            <p>Want to be notified about our services. Just sign up and we'll send you a notification by email.</p>
-                            <div class="newsletter">
-                                <form action="#">
-                                    <input type="email" placeholder="Email Address" required>
-                                    <button type="submit"><i class="fa-light fa-arrow-right"></i></button>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- bottom -->
-        <div class="bottom">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-md-12">
-                        <div class="links">
-                            <ul>
-                                <li><a href="index-2.html">Home</a></li>
-                                
+
+                        <p>
+                            The Plug Luxx is a modern luxury marketplace connecting individuals and businesses to premium experiences, curated listings, and exclusive opportunities across the globe.
+                        </p>
+
+                        <!-- Social -->
+                        <div class="social-icons">
+                            <ul class="list-inline">
+
+                                <li>
+                                    <a href="https://www.instagram.com/theplugluxx?igsh=em1neHM1MGFteHdq" target="_blank">
+                                        <i class="fa-brands fa-instagram"></i>
+                                    </a>
+                                </li>
+
+                                <li>
+                                    <a href="https://www.facebook.com/share/18BWQBDQty/?mibextid=wwXIfr" target="_blank">
+                                        <i class="fa-brands fa-facebook-f"></i>
+                                    </a>
+                                </li>
+
+                                <li>
+                                    <a href="https://www.threads.com/@theplugluxx?igshid=NTc4MTIwNjQ2YQ==" target="_blank">
+                                        <i class="fa-brands fa-threads"></i>
+                                    </a>
+                                </li>
+
                             </ul>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-12 text-end">
-                        <p>Copyright 2026 by <a href="#">PlugLuxx</a></p>
+                </div>
+
+              <div class="col-md-3 offset-md-1 mb-30">
+                    <div class="item contact-style">
+                        <h3>Contact Us</h3>
+
+                        <p>
+                            <span class="icon-circle">
+                                <i class="fa-thin fa-location-dot"></i>
+                            </span>
+                            Cape Town, Western Cape
+                        </p>
+
+                        <div class="phone">
+                            <span class="icon-circle">
+                                <i class="fa-thin fa-phone"></i>
+                            </span>
+                            <a href="tel:+27647744907">+27 64 774 4907</a>
+                        </div>
+
+                        <p>
+                            <span class="icon-circle">
+                                <i class="fa-thin fa-envelope"></i>
+                            </span>
+                            <a href="mailto:bookings@theplugluxx.com"> bookings@theplugluxx.com </a>
+                        </p>
                     </div>
                 </div>
+
+                <!-- Subscribe -->
+                <div class="col-md-4 mb-30">
+                    <div class="item">
+                        <h3>Subscribe</h3>
+
+                        <p>
+                            Stay updated with our latest luxury offerings, experiences, and opportunities. Join our mailing list today.
+                        </p>
+
+                        <div class="newsletter">
+                            <form action="#">
+                                <input type="email" placeholder="Email Address" required>
+                                <button type="submit">
+                                    <i class="fa-light fa-arrow-right"></i>
+                                </button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </div>
-    </footer>
+    </div>
+
+    <!-- bottom -->
+    <div class="bottom">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-lg-8 col-md-12">
+                    <div class="links">
+                        <ul>
+                            <li><a href="index.html">Home</a></li>
+                            <li><a href="about.html">About</a></li>
+                            <li><a href="services.html">Services</a></li>
+                            <li><a href="contact.html">Contact</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-12 text-end">
+                    <p>
+                        © 2026 <a href="#">The Plug Luxx</a>. All rights reserved.
+                    </p>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</footer>
     <!-- jQuery -->
     <script src="js/jquery-3.7.1.min.js"></script>
     <script src="js/jquery-migrate-3.4.1.min.js"></script>

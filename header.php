@@ -90,7 +90,9 @@
                     <li class="nav-item"><a class="nav-link" href="become-a-host.html">Become a Host</a></li>
                     <li class="nav-item"><a class="nav-link" href="co-host.html">Co Host</a></li>
                     <li class="nav-item"><a class="nav-link" href="app-launch.html">App Launch</a></li>
+                    <li class="nav-item"><a class="nav-link" href="faq.html">FAQ</a></li>
                     <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+                    
                 </ul>
             </div>
         </div>

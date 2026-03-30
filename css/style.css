@@ -6138,3 +6138,37 @@ body.mfp-zoom-out-cur {
     }
 }
 
+
+.contact-style p,
+.contact-style .phone,
+.contact-style .mail {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 12px;
+}
+
+.icon-circle {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: rgba(18, 90, 82, 0.08);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.icon-circle i {
+    color: #ffffff;
+    font-size: 16px;
+}
+
+/* hover effect (optional but premium) */
+.icon-circle:hover {
+    background-color: #125A52;
+    transition: 0.3s ease;
+}
+
+.icon-circle:hover i {
+    color: #fff;
+}
