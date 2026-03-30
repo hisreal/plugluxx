@@ -46,7 +46,7 @@
                     <p>We go beyond listings — we create opportunities for discovery, connection, and income.</p>
 
 
-                    <a href="" class="button-3 mb-15">Read More</a>
+                    <a href="about.php" class="button-3 mb-15">Read More</a>
                 </div>
                 <div class="col-lg-3 offset-lg-1 col-md-6 mb-20 mt-45"> <img class="rounded-2 animation-float1" src="img/offers/DSC04979 copy.jpg12345.webp" alt=""> </div>
                 <div class="col-lg-3 col-md-6 mb-20"> <img class="rounded-2 animation-float2"  src="img/offers/IMG_9100.JPG.webp"  alt=""> </div>
@@ -76,7 +76,7 @@
                     <div class="con">
                         <div class="title">Luxury Cars</div>
                         <div class="arrow">
-                            <a href="#"><span class="fa-light fa-arrow-right"></span></a>
+                            <a href="services.php#luxurycar"><span class="fa-light fa-arrow-right"></span></a>
                         </div>
                     </div>
                 </div>
@@ -90,7 +90,7 @@
                     <div class="con">
                         <div class="title">Luxury Properties</div>
                         <div class="arrow">
-                            <a href="#"><span class="fa-light fa-arrow-right"></span></a>
+                            <a href="services.php#luxuryproperty"><span class="fa-light fa-arrow-right"></span></a>
                         </div>
                     </div>
                 </div>
@@ -104,7 +104,7 @@
                     <div class="con">
                         <div class="title">Hotels & Short Stays</div>
                         <div class="arrow">
-                            <a href="#"><span class="fa-light fa-arrow-right"></span></a>
+                            <a href="services.php#hotel"><span class="fa-light fa-arrow-right"></span></a>
                         </div>
                     </div>
                 </div>
@@ -118,7 +118,7 @@
                     <div class="con">
                         <div class="title">Private Jets</div>
                         <div class="arrow">
-                            <a href="#"><span class="fa-light fa-arrow-right"></span></a>
+                            <a href="services.php#jet"><span class="fa-light fa-arrow-right"></span></a>
                         </div>
                     </div>
                 </div>
@@ -132,7 +132,7 @@
                     <div class="con">
                         <div class="title">Luxury Yachts</div>
                         <div class="arrow">
-                            <a href="#"><span class="fa-light fa-arrow-right"></span></a>
+                            <a href="services.php#luxuryyachts"><span class="fa-light fa-arrow-right"></span></a>
                         </div>
                     </div>
                 </div>
@@ -146,7 +146,7 @@
                     <div class="con">
                         <div class="title">Experiences</div>
                         <div class="arrow">
-                            <a href="#"><span class="fa-light fa-arrow-right"></span></a>
+                            <a href="services.php#experiences"><span class="fa-light fa-arrow-right"></span></a>
                         </div>
                     </div>
                 </div>

@@ -9,11 +9,11 @@
                 <div class="col-md-4 mb-30">
                     <div class="item">
                         <div class="logo">
-                            <img src="img/plug_logo.png" alt="The Plug Luxx logo">
+                            <img src="img/plug_logo.png" alt="The Plugluxx logo">
                         </div>
 
                         <p>
-                            The Plug Luxx is a modern luxury marketplace connecting individuals and businesses to premium experiences, curated listings, and exclusive opportunities across the globe.
+                            The Plugluxx is a modern luxury marketplace connecting individuals and businesses to premium experiences, curated listings, and exclusive opportunities across the globe.
                         </p>
 
                         <!-- Social -->
@@ -102,9 +102,9 @@
                 <div class="col-lg-8 col-md-12">
                     <div class="links">
                         <ul>
-                            <li><a href="index.html">Home</a></li>
-                            <li><a href="about.html">About</a></li>
-                            <li><a href="services.html">Services</a></li>
+                            <li><a href="index.php">Home</a></li>
+                            <li><a href="about.php">About</a></li>
+                            <li><a href="services.php">Services</a></li>
                             <li><a href="contact.html">Contact</a></li>
                         </ul>
                     </div>
@@ -112,7 +112,7 @@
 
                 <div class="col-lg-4 col-md-12 text-end">
                     <p>
-                        © 2026 <a href="#">The Plug Luxx</a>. All rights reserved.
+                        © 2026 <a href="#">The PlugLuxx</a>. All rights reserved.
                     </p>
                 </div>
 

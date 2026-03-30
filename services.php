@@ -33,7 +33,7 @@
         <!-- Services Grid -->
         <div class="row g-4">
 
-            <div class="col-12 col-md-6 col-lg-4">
+            <div id="luxurycar" class="col-12 col-md-6 col-lg-4">
                 <div class="service-card h-100">
                     <div class="service-icon">
                         <i class="fa-thin fa-car-side"></i>
@@ -45,7 +45,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-6 col-lg-4">
+            <div id="luxuryproperty"  class="col-12 col-md-6 col-lg-4">
                 <div class="service-card h-100">
                     <div class="service-icon">
                         <i class="fa-thin fa-building"></i>
@@ -57,7 +57,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-6 col-lg-4">
+            <div id="hotel" class="col-12 col-md-6 col-lg-4">
                 <div class="service-card h-100">
                     <div class="service-icon">
                         <i class="fa-thin fa-hotel"></i>
@@ -69,7 +69,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-6 col-lg-4">
+            <div id="jet" class="col-12 col-md-6 col-lg-4">
                 <div class="service-card h-100">
                     <div class="service-icon">
                         <i class="fa-thin fa-plane"></i>
@@ -81,7 +81,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-6 col-lg-4">
+            <div id="luxuryyachts" class="col-12 col-md-6 col-lg-4">
                 <div class="service-card h-100">
                     <div class="service-icon">
                         <i class="fa-thin fa-sailboat"></i>
@@ -93,7 +93,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-6 col-lg-4">
+            <div id="experiences" class="col-12 col-md-6 col-lg-4">
                 <div class="service-card h-100">
                     <div class="service-icon">
                         <i class="fa-thin fa-stars"></i>
