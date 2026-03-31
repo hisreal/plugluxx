@@ -13,11 +13,11 @@
             </div>
         </div>
     </section>
-    
+
+
     <section class="services-premium section-padding bg-lightbrown">
     <div class="container">
 
-        <!-- Intro -->
         <div class="row justify-content-center text-center mb-5">
             <div class="col-lg-9">
                 <div class="section-subtitle">Our Luxury Services & Listings</div>
@@ -30,85 +30,108 @@
             </div>
         </div>
 
-        <!-- Services Grid -->
         <div class="row g-4">
 
             <div id="luxurycar" class="col-12 col-md-6 col-lg-4">
-                <div class="service-card h-100">
-                    <div class="service-icon">
-                        <i class="fa-thin fa-car-side"></i>
+                <div class="luxx-card-premium">
+                    <div class="luxx-card-image">
+                        <img src="img/offers/DSC04692 copy.jpg12345.webp" alt="Luxury Cars">
                     </div>
-                    <h3 class="service-heading">Luxury Cars</h3>
-                    <p class="service-text">
-                        Drive high performance vehicles that combine power, prestige, and style for every journey.
-                    </p>
+                    <div class="luxx-card-body">
+                        <h3 class="luxx-card-title">Luxury Cars</h3>
+                        <p class="luxx-card-text">
+                            Drive high performance vehicles that combine power, prestige, and style for every journey.
+                        </p>
+                        <div class="luxx-card-line"></div>
+                    </div>
                 </div>
             </div>
 
-            <div id="luxuryproperty"  class="col-12 col-md-6 col-lg-4">
-                <div class="service-card h-100">
-                    <div class="service-icon">
-                        <i class="fa-thin fa-building"></i>
+            <div id="luxuryproperty" class="col-12 col-md-6 col-lg-4">
+                <div class="luxx-card-premium">
+                    <div class="luxx-card-image">
+                        <img src="img/offers/luxury_property.webp" alt="Luxury Properties">
                     </div>
-                    <h3 class="service-heading">Luxury Properties</h3>
-                    <p class="service-text">
-                        Explore apartments, villas, and penthouses designed for comfort, sophistication, and elegance.
-                    </p>
+                    <div class="luxx-card-body">
+                     
+                        <h3 class="luxx-card-title">Luxury Properties</h3>
+                        <p class="luxx-card-text">
+                            Explore apartments, villas, and penthouses designed for comfort, sophistication, and elegance.
+                        </p>
+                        <div class="luxx-card-line"></div>
+                    </div>
                 </div>
             </div>
 
             <div id="hotel" class="col-12 col-md-6 col-lg-4">
-                <div class="service-card h-100">
-                    <div class="service-icon">
-                        <i class="fa-thin fa-hotel"></i>
+                <div class="luxx-card-premium">
+                    <div class="luxx-card-image">
+                        <img src="img/offers/short-stay.webp" alt="Hotels and Short Stays">
                     </div>
-                    <h3 class="service-heading">Hotels & Short Stays</h3>
-                    <p class="service-text">
-                        Experience refined hospitality with premium hotel and short let options tailored to your lifestyle.
-                    </p>
+                    <div class="luxx-card-body">
+                     
+                        <h3 class="luxx-card-title">Hotels & Short Stays</h3>
+                        <p class="luxx-card-text">
+                            Experience refined hospitality with premium hotel and short let options tailored to your lifestyle.
+                        </p>
+                        <div class="luxx-card-line"></div>
+                    </div>
                 </div>
             </div>
 
-            <div id="jet" class="col-12 col-md-6 col-lg-4">
-                <div class="service-card h-100">
-                    <div class="service-icon">
-                        <i class="fa-thin fa-plane"></i>
+
+             <div id="hotel" class="col-12 col-md-6 col-lg-4">
+                <div class="luxx-card-premium">
+                    <div class="luxx-card-image">
+                        <img src="img/offers/ins_link_DUfQ96SDV2A_1.webp" alt="Hotels and Short Stays">
                     </div>
-                    <h3 class="service-heading">Private Jets</h3>
-                    <p class="service-text">
+                    <div class="luxx-card-body">
+                     
+                        <h3 class="luxx-card-title">Private Jets</h3>
+                        <p class="luxx-card-text">
                         Travel on your terms with exclusive private aviation experiences built around comfort and flexibility.
-                    </p>
+                        </p>
+                        <div class="luxx-card-line"></div>
+                    </div>
                 </div>
             </div>
 
-            <div id="luxuryyachts" class="col-12 col-md-6 col-lg-4">
-                <div class="service-card h-100">
-                    <div class="service-icon">
-                        <i class="fa-thin fa-sailboat"></i>
+              <div id="hotel" class="col-12 col-md-6 col-lg-4">
+                <div class="luxx-card-premium">
+                    <div class="luxx-card-image">
+                        <img src="img/offers/viktor-ritsvall-FWJinfDsIn8-unsplash.webp" alt="Hotels and Short Stays">
                     </div>
-                    <h3 class="service-heading">Luxury Yachts</h3>
-                    <p class="service-text">
+                    <div class="luxx-card-body">
+                     
+                        <h3 class="luxx-card-title">Yatchs</h3>
+                        <p class="luxx-card-text">
                         Sail in style with world class yacht experiences that deliver privacy, luxury, and unforgettable moments.
-                    </p>
+                        </p>
+                        <div class="luxx-card-line"></div>
+                    </div>
                 </div>
             </div>
 
-            <div id="experiences" class="col-12 col-md-6 col-lg-4">
-                <div class="service-card h-100">
-                    <div class="service-icon">
-                        <i class="fa-thin fa-stars"></i>
+             <div id="hotel" class="col-12 col-md-6 col-lg-4">
+                <div class="luxx-card-premium">
+                    <div class="luxx-card-image">
+                        <img src="img/offers/4225.webp" alt="Hotels and Short Stays">
                     </div>
-                    <h3 class="service-heading">Experiences</h3>
-                    <p class="service-text">
+                    <div class="luxx-card-body">
+                     
+                        <h3 class="luxx-card-title">Experiences</h3>
+                        <p class="luxx-card-text">
                         From personal coaching to curated lifestyle experiences, elevate how you live and engage with luxury.
-                    </p>
+                        </p>
+                        <div class="luxx-card-line"></div>
+                    </div>
                 </div>
             </div>
 
         </div>
 
-        <!-- Closing Statement -->
-        <div class="row justify-content-center mt-5">
+
+    <div class="row justify-content-center mt-5">
             <div class="col-lg-10">
                 <div class="services-closing text-center">
                     <h2 class="closing-title">
@@ -130,7 +153,18 @@
             </div>
         </div>
 
+      <div class="row justify-content-center mt-4">
+        <div class="col-lg-8">
+            <div class="luxx-card-video">
+                <img class="luxx-video-img" src="img/offers/ins_link_DWGzlwejNsH_1774795765951-ezgif.com-optiwebp.webp" alt="">
+            </div>
+        </div>
+    </div>
+
+       
+
     </div>
 </section>
+
 
 <?php require_once("footer.php"); ?>
