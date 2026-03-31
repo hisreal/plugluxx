@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>The Plug Luxx | Luxury Experiences, Premium Listings & Hosting Opportunities</title>
+    <title>The Plugluxx | Luxury Experiences, Premium Listings & Hosting Opportunities</title>
 
-    <meta name="description" content="Discover The Plug Luxx, a premium platform for luxury services, curated listings, short stays, properties, private experiences, hosting, co hosting, and exclusive earning opportunities.">
+    <meta name="description" content="Discover The Plugluxx, a premium platform for luxury services, curated listings, short stays, properties, private experiences, hosting, co hosting, and exclusive earning opportunities.">
 
-    <meta name="keywords" content="The Plug Luxx, luxury services, luxury experiences, premium listings, short stays, luxury properties, private jets, yachts, luxury lifestyle, hosting opportunities, co hosting, luxury bookings, exclusive services, premium travel, luxury accommodation">
+    <meta name="keywords" content="The Plugluxx, luxury services, luxury experiences, premium listings, short stays, luxury properties, private jets, yachts, luxury lifestyle, hosting opportunities, co hosting, luxury bookings, exclusive services, premium travel, luxury accommodation">
 
-    <meta name="author" content="The Plug Luxx">
+    <meta name="author" content="The Plugluxx">
     <meta name="robots" content="index, follow">
     <meta name="theme-color" content="#125A52">
 
@@ -20,16 +20,16 @@
 
     <!-- Open Graph -->
     <meta property="og:type" content="website">
-    <meta property="og:title" content="The Plug Luxx | Luxury Experiences, Premium Listings & Hosting Opportunities">
-    <meta property="og:description" content="Explore premium services, curated luxury listings, and income generating opportunities with The Plug Luxx.">
+    <meta property="og:title" content="The Plugluxx | Luxury Experiences, Premium Listings & Hosting Opportunities">
+    <meta property="og:description" content="Explore premium services, curated luxury listings, and income generating opportunities with The Plugluxx.">
     <meta property="og:url" content="https://www.theplugluxx.com/">
     <meta property="og:image" content="https://www.theplugluxx.com/img/plug_logo.png">
-    <meta property="og:site_name" content="The Plug Luxx">
+    <meta property="og:site_name" content="The Plugluxx">
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="The Plug Luxx | Luxury Experiences, Premium Listings & Hosting Opportunities">
-    <meta name="twitter:description" content="Discover luxury services, premium listings, hosting opportunities, and exclusive experiences with The Plug Luxx.">
+    <meta name="twitter:title" content="The Plugluxx | Luxury Experiences, Premium Listings & Hosting Opportunities">
+    <meta name="twitter:description" content="Discover luxury services, premium listings, hosting opportunities, and exclusive experiences with The Plugluxx.">
     <meta name="twitter:image" content="https://www.theplugluxx.com/img/plug_logo.png">
 
     <!-- Fonts -->
@@ -51,7 +51,7 @@
                 <div class="loader-line-mask">
                     <div class="loader-line"></div>
                 </div>
-                <img src="img/plug_logo.png" alt="The Plug Luxx logo">
+                <img src="img/plug_logo.png" alt="The Plugluxx logo">
             </div>
         </div>
     </div>
@@ -69,8 +69,8 @@
         <div class="container">
             <!-- Logo -->
             <div class="logo-wrapper">
-                <a class="logo" href="index.html" aria-label="The Plug Luxx Home">
-                    <img src="img/plug_logo.png" class="logo-img" alt="The Plug Luxx logo">
+                <a class="logo" href="index.html" aria-label="The Plugluxx Home">
+                    <img src="img/plug_logo.png" class="logo-img" alt="The Plugluxx logo">
                 </a>
             </div>
 
@@ -87,11 +87,11 @@
                     <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
                     <li class="nav-item"><a class="nav-link" href="about.php">About</a></li>
                     <li class="nav-item"><a class="nav-link" href="services.php">Services</a></li>
-                    <li class="nav-item"><a class="nav-link" href="become-a-host.html">Become a Host</a></li>
-                    <li class="nav-item"><a class="nav-link" href="co-host.html">Co Host</a></li>
-                    <li class="nav-item"><a class="nav-link" href="app-launch.html">App Launch</a></li>
-                    <li class="nav-item"><a class="nav-link" href="faq.html">FAQ</a></li>
-                    <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+                    <li class="nav-item"><a class="nav-link" href="host.php">Become a Host</a></li>
+                    <li class="nav-item"><a class="nav-link" href="cohost.php">Co Host</a></li>
+                    <li class="nav-item"><a class="nav-link" href="app.php">App Launch</a></li>
+                    <li class="nav-item"><a class="nav-link" href="faq.php">FAQ</a></li>
+                    <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
                     
                 </ul>
             </div>

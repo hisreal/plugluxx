@@ -76,7 +76,7 @@
                     <div class="con">
                         <div class="title">Luxury Cars</div>
                         <div class="arrow">
-                            <a href="services.php#luxurycar"><span class="fa-light fa-arrow-right"></span></a>
+                            <a href="luxury_car.php"><span class="fa-light fa-arrow-right"></span></a>
                         </div>
                     </div>
                 </div>
@@ -90,7 +90,7 @@
                     <div class="con">
                         <div class="title">Luxury Properties</div>
                         <div class="arrow">
-                            <a href="services.php#luxuryproperty"><span class="fa-light fa-arrow-right"></span></a>
+                            <a href="luxury_property.php"><span class="fa-light fa-arrow-right"></span></a>
                         </div>
                     </div>
                 </div>
@@ -104,7 +104,7 @@
                     <div class="con">
                         <div class="title">Hotels & Short Stays</div>
                         <div class="arrow">
-                            <a href="services.php#hotel"><span class="fa-light fa-arrow-right"></span></a>
+                            <a href="hotel.php"><span class="fa-light fa-arrow-right"></span></a>
                         </div>
                     </div>
                 </div>
@@ -118,7 +118,7 @@
                     <div class="con">
                         <div class="title">Private Jets</div>
                         <div class="arrow">
-                            <a href="services.php#jet"><span class="fa-light fa-arrow-right"></span></a>
+                            <a href="jet.php"><span class="fa-light fa-arrow-right"></span></a>
                         </div>
                     </div>
                 </div>
@@ -132,7 +132,7 @@
                     <div class="con">
                         <div class="title">Luxury Yachts</div>
                         <div class="arrow">
-                            <a href="services.php#luxuryyachts"><span class="fa-light fa-arrow-right"></span></a>
+                            <a href="luxury_yachts.php"><span class="fa-light fa-arrow-right"></span></a>
                         </div>
                     </div>
                 </div>
@@ -141,12 +141,12 @@
             <div class="col-lg-4 col-md-6">
                 <div class="item">
                     <div class="img">
-                        <img src="img/offers/4225.webp" alt="Experiences and Services">
+                        <img  src="img/offers/4225.webp" alt="Experiences and Services">
                     </div>
                     <div class="con">
                         <div class="title">Experiences</div>
                         <div class="arrow">
-                            <a href="services.php#experiences"><span class="fa-light fa-arrow-right"></span></a>
+                            <a href="experiences.php"><span class="fa-light fa-arrow-right"></span></a>
                         </div>
                     </div>
                 </div>

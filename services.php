@@ -1,5 +1,4 @@
 <?php require_once("header.php"); ?>
-<?php require_once("header.php"); ?>
 <!-- Kenburns SlideShow -->
  <section class="parallax-header valign bg-img bg-fixed" data-overlay-dark="5" data-background="img/offers/experience.webp">
         <div class="container">
@@ -25,7 +24,7 @@
                     Premium categories designed for comfort, class, and exclusivity
                 </h1>
                 <p class="services-intro">
-                    At The Plug Luxx, we provide access to a wide range of premium categories tailored for individuals who value comfort, elegance, and elevated experiences.
+                    At The Plugluxx, we provide access to a wide range of premium categories tailored for individuals who value comfort, elegance, and elevated experiences.
                 </p>
             </div>
         </div>
@@ -42,7 +41,7 @@
                         <p class="luxx-card-text">
                             Drive high performance vehicles that combine power, prestige, and style for every journey.
                         </p>
-                        <div class="luxx-card-line"></div>
+                        <a href="luxury_car.php" class="button-3 mb-15">Explore</a>
                     </div>
                 </div>
             </div>
@@ -58,7 +57,7 @@
                         <p class="luxx-card-text">
                             Explore apartments, villas, and penthouses designed for comfort, sophistication, and elegance.
                         </p>
-                        <div class="luxx-card-line"></div>
+                        <a href="luxury_property.php" class="button-3 mb-15">Explore</a>
                     </div>
                 </div>
             </div>
@@ -74,7 +73,7 @@
                         <p class="luxx-card-text">
                             Experience refined hospitality with premium hotel and short let options tailored to your lifestyle.
                         </p>
-                        <div class="luxx-card-line"></div>
+                        <a href="hotel.php" class="button-3 mb-15">Explore</a>
                     </div>
                 </div>
             </div>
@@ -91,7 +90,7 @@
                         <p class="luxx-card-text">
                         Travel on your terms with exclusive private aviation experiences built around comfort and flexibility.
                         </p>
-                        <div class="luxx-card-line"></div>
+                        <a href="jet.php" class="button-3 mb-15">Explore</a>
                     </div>
                 </div>
             </div>
@@ -103,11 +102,11 @@
                     </div>
                     <div class="luxx-card-body">
                      
-                        <h3 class="luxx-card-title">Yatchs</h3>
+                        <h3 class="luxx-card-title">Yachts</h3>
                         <p class="luxx-card-text">
                         Sail in style with world class yacht experiences that deliver privacy, luxury, and unforgettable moments.
                         </p>
-                        <div class="luxx-card-line"></div>
+                        <a href="luxury_yachts.php" class="button-3 mb-15">Explore</a>
                     </div>
                 </div>
             </div>
@@ -123,7 +122,7 @@
                         <p class="luxx-card-text">
                         From personal coaching to curated lifestyle experiences, elevate how you live and engage with luxury.
                         </p>
-                        <div class="luxx-card-line"></div>
+                        <a href="experiences.php" class="button-3 mb-15">Explore</a>
                     </div>
                 </div>
             </div>
@@ -135,7 +134,7 @@
             <div class="col-lg-10">
                 <div class="services-closing text-center">
                     <h2 class="closing-title">
-                        Every service on The Plug Luxx is curated to meet the highest standards of luxury and client satisfaction.
+                        Every service on The Plugluxx is curated to meet the highest standards of luxury and client satisfaction.
                     </h2>
                 </div>
             </div>
@@ -156,7 +155,7 @@
       <div class="row justify-content-center mt-4">
         <div class="col-lg-8">
             <div class="luxx-card-video">
-                <img class="luxx-video-img" src="img/offers/ins_link_DWGzlwejNsH_1774795765951-ezgif.com-optiwebp.webp" alt="">
+                <img class="luxx-video-img" src="img/offers/high quality.webp" alt="">
             </div>
         </div>
     </div>

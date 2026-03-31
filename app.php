@@ -1,0 +1,96 @@
+<?php require_once("header.php"); ?>
+<!-- Kenburns SlideShow -->
+ <section class="parallax-header valign bg-img bg-fixed" data-overlay-dark="5" data-background="img/offers/experience.webp">
+        <div class="container">
+            <div class="row justify-content-center align-items-center">
+                 <div class="col-lg-12 col-md-12">
+                    <h1>The Future of <br> Luxury is Mobile</h1>
+                </p>
+                </div>
+               <div class="col-lg-12 col-md-12">
+                   
+
+                </div>
+            </div>
+        </div>
+    </section>
+<section class="luxx-launch-section section-padding">
+    <div class="container">
+
+        <!-- Header -->
+        <div class="row justify-content-center text-center mb-5 reveal">
+            <div class="col-lg-8">
+                <span class="luxx-badge">Mobile App Launch</span>
+                <h2 class="luxx-title">
+                    Everything you need in one powerful platform
+                </h2>
+                <p class="luxx-subtext">
+                    Designed for seamless luxury access, earning opportunities, and effortless management all in one place.
+                </p>
+            </div>
+        </div>
+
+        <!-- App Mockup -->
+        <div class="row justify-content-center mb-5 reveal">
+            <div class="col-lg-4 text-center">
+                <div class="luxx-app-wrapper">
+                    <img src="img/5be1d958-887f-4b66-bb5d-9db662d117d6.webp" class="luxx-app-preview" alt="">
+                </div>
+            </div>
+        </div>
+
+        <!-- Cards -->
+        <div class="row g-4 reveal">
+            <div class="col-lg-4 col-md-6">
+                <div class="launch-card h-100">
+                    <div class="launch-icon">
+                        <span class="fa-thin fa-calendar-check"></span>
+                    </div>
+                    <h3 class="launch-title">Book luxury services instantly</h3>
+                    <p class="launch-text">
+                        Reserve premium experiences quickly and smoothly from your phone with a user friendly mobile flow.
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6">
+                <div class="launch-card h-100">
+                    <div class="launch-icon">
+                        <span class="fa-thin fa-user-plus"></span>
+                    </div>
+                    <h3 class="launch-title">Register as a user, host, or co host</h3>
+                    <p class="launch-text">
+                        Create your profile and unlock opportunities whether you want to explore, earn, or grow with the platform.
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6">
+                <div class="launch-card h-100">
+                    <div class="launch-icon">
+                        <span class="fa-thin fa-wallet"></span>
+                    </div>
+                    <h3 class="launch-title">Manage bookings and earnings</h3>
+                    <p class="launch-text">
+                        Stay in control with an easy dashboard for tracking reservations, income, and activity in real time.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <!-- CTA -->
+        <div class="launch-cta text-center mt-5 reveal">
+            <div class="section-title2 mb-3">Be among the first to experience it.</div>
+            <div class="cta-buttons">
+                <div class="button-3">
+                    <a href="booking-system.html">Get Early Access</a>
+                </div>
+                <div class="button-1">
+                    <a href="booking-system.html">Join Waitlist</a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
+<?php require_once("footer.php"); ?>

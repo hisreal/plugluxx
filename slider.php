@@ -13,7 +13,7 @@
                     </div>
 
                       <div class="button-2"   >
-                        <a href="booking-system.html"> Become a Host</a>
+                        <a href="host.php"> Become a Host</a>
                     </div>
                 </div>
 

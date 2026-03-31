@@ -137,7 +137,25 @@
     <script src="js/select2.js"></script>
     <script src="js/datepicker.js"></script>
     <script src="js/custom.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    const reveals = document.querySelectorAll(".reveal");
 
+    function revealOnScroll() {
+        reveals.forEach(function (el) {
+            const windowHeight = window.innerHeight;
+            const elementTop = el.getBoundingClientRect().top;
+
+            if (elementTop < windowHeight - 80) {
+                el.classList.add("active");
+            }
+        });
+    }
+
+    revealOnScroll();
+    window.addEventListener("scroll", revealOnScroll);
+});
+</script>
       <!-- Vegas Background Slideshow (vegas.slider kenburns) -->
     <script>
         $(document).ready(function() {
