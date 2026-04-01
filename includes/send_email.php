@@ -15,7 +15,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $name        = trim($_POST['name'] ?? '');
     $phone            = trim($_POST['phone'] ?? '');
     $email            = trim($_POST['email'] ?? '');
-    $subject= trim($_POST['subject'] 'email');
+    $subject = trim($_POST['subject'] ?? '');
     $message          = trim($_POST['message'] ?? '');
 
     // Validate required fields

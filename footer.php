@@ -218,7 +218,7 @@ $(document).ready(function() {
             complete: function() {
                 // Re-enable button
                 submitBtn.prop('disabled', false);
-                submitBtn.html('Request Quote');
+                submitBtn.html('Send');
             }
         });
     });
