@@ -33,7 +33,7 @@
         <div class="row justify-content-center mb-5 reveal">
             <div class="col-lg-4 text-center">
                 <div class="">
-                    <img src="img/hero/b999bff0-b228-4a9a-9353-cbea3781e562 (1).png"  alt="">
+                    <img src="img/hero/b999bff0-b228-4a9a-9353-cbea3781e562 (1).png" class="img-fluid app-image text-center rounded-2 animation-float2 reveal"  alt="">
                 </div>
             </div>
         </div>

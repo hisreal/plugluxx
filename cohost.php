@@ -125,7 +125,7 @@
     <div class="host-final-cta">
         <div class="container text-center">
             <h2>Start earning without owning. Join as a Co Host.</h2>
-            <a href="#" class="host-cta large">Apply Now</a>
+            <a href="contact.php" class="host-cta large">Apply Now</a>
         </div>
     </div>
 

@@ -136,7 +136,7 @@ The Plugluxx helps you turn it into a consistent revenue stream.
     <div class="host-final-cta">
         <div class="container text-center">
             <h2>Start Earning Today — Become a PlugLuxx Host</h2>
-            <a href="#" class="host-cta large">Join Now</a>
+            <a href="contact.php" class="host-cta large">Join Now</a>
         </div>
     </div>
 

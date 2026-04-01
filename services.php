@@ -19,7 +19,7 @@
 
         <div class="row justify-content-center text-center mb-5">
             <div class="col-lg-9">
-                <div class="section-subtitle">Our Luxury Services & Listings</div>
+                <div class="section-subtitle">Our Luxury Services</div>
                 <h1 class="section-title2 services-title">
                     Premium categories designed for comfort, class, and exclusivity
                 </h1>
