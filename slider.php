@@ -9,11 +9,11 @@
                 </div>
                <div class="col-lg-12 col-md-12">
                     <div class="button-3"   >
-                        <a href="services.php">Learn More</a>
+                        <a href="services">Learn More</a>
                     </div>
 
                       <div class="button-2"   >
-                        <a href="host.php"> Become a Host</a>
+                        <a href="host"> Become a Host</a>
                     </div>
                 </div>
 
