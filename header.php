@@ -88,7 +88,7 @@
                     <li class="nav-item"><a class="nav-link" href="about">About</a></li>
                     <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="services" role="button" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false">Services <i class="fa-light fa-angle-down"></i></a>
                         <ul class="dropdown-menu">
-                            <li><a href="services" class="dropdown-item"><span>Alll</span></a></li>
+                            <li><a href="services" class="dropdown-item"><span>All</span></a></li>
                             
                             <li><a href="luxury_car" class="dropdown-item"><span>Luxury Cars</span></a></li>
                             <li><a href="luxury_property" class="dropdown-item"><span>Luxury Property</span></a></li>
