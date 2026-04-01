@@ -1,0 +1,77 @@
+RewriteEngine On
+
+# Force HTTPS Redirect (Very Important)
+RewriteCond %{HTTPS} !=on
+RewriteRule ^ https://www.%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+RewriteCond %{THE_REQUEST} /about\.php [NC]
+RewriteRule ^about\.php$ /about [R=301,L]
+
+RewriteCond %{THE_REQUEST} /index\.php [NC]
+RewriteRule ^index\.php$ / [R=301,L]
+
+RewriteCond %{THE_REQUEST} /services\.php [NC]
+RewriteRule ^services\.php$ /services [R=301,L]
+
+RewriteCond %{THE_REQUEST} /cohost\.php [NC]
+RewriteRule ^cohost\.php$ /cohost [R=301,L]
+
+
+RewriteCond %{THE_REQUEST} /host\.php [NC]
+RewriteRule ^host\.php$ /host [R=301,L]
+
+
+RewriteCond %{THE_REQUEST} /luxury_car\.php [NC]
+RewriteRule ^luxury_car\.php$ /luxury_car [R=301,L]
+
+RewriteCond %{THE_REQUEST} /luxury_property\.php [NC]
+RewriteRule ^luxury_car\.php$ /luxury_property [R=301,L]
+
+RewriteCond %{THE_REQUEST} /luxury_yachts\.php [NC]
+RewriteRule ^luxury_yachts\.php$ /luxury_yachts [R=301,L]
+
+RewriteCond %{THE_REQUEST} /jet\.php [NC]
+RewriteRule ^jet\.php$ /jet [R=301,L]
+
+RewriteCond %{THE_REQUEST} /hotel\.php [NC]
+RewriteRule ^hotel\.php$ /hotel [R=301,L]
+
+RewriteCond %{THE_REQUEST} /app\.php [NC]
+RewriteRule ^app\.php$ /app [R=301,L]
+
+
+RewriteCond %{THE_REQUEST} /faq\.php [NC]
+RewriteRule ^faq\.php$ /faq [R=301,L]
+
+RewriteCond %{THE_REQUEST} /contact\.php [NC]
+RewriteRule ^contact\.php$ /contact [R=301,L]
+
+# -----------------------------
+# Remove .php extension for all pages
+# -----------------------------
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+
+RewriteRule ^about$ about.php [L]
+RewriteRule ^services$ services.php [L]
+
+RewriteRule ^faq$ faq.php [L]
+RewriteRule ^contact$ contact.php [L]
+
+# Optional: Remove trailing slash
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)/$ /$1 [R=301,L]
+
+# php -- BEGIN cPanel handler (Do not edit)
+<IfModule mime_module>
+AddHandler application/x-httpd-ea-php81___lsphp .php .php8 .phtml
+</IfModule>
+# php -- END cPanel handler
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php82” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php82___lsphp .php .php8 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit
