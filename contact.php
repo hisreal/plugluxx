@@ -51,7 +51,7 @@
                 </div>
                 <div class="col-lg-4 offset-lg-1 col-md-12">
                     <div class="form2-sidebar mt--240">
-                        <form action="#" class="form2">
+                        <form id="contact-form" method="post" class="form2">
                             <div class="head">
                                 <div class="row">
                                     <div class="col-md-12">
@@ -62,23 +62,37 @@
                             <div class="cont">
                                 <div class="row">
                                     <div class="col-lg-12 col-md-12 form-group">
-                                        <input type="text" placeholder="Name" required>
+                                        <input type="text" name="name" placeholder="Name" >
                                     </div>
                                     <div class="col-lg-12 col-md-12 form-group">
-                                        <input type="email" placeholder="Email" required>
+                                        <input type="email" name="email" placeholder="Email" >
                                     </div>
                                     <div class="col-lg-12 col-md-12 form-group">
-                                        <input type="text" placeholder="Phone" required>
+                                        <input type="text" name="phone" placeholder="Phone" >
                                     </div>
                                     <div class="col-md-12 form-group">
-                                        <input type="text" placeholder="Subject">
+                                        <input type="text" name="subject" placeholder="Subject">
                                     </div>
                                     <div class="col-md-12 form-group">
-                                        <textarea name="message" id="message" cols="30" rows="4" placeholder="Message"></textarea>
+                                        <textarea name="message"  id="message" cols="30" rows="4" placeholder="Message"></textarea>
                                     </div>
+
+                                    <br>
+                                     <!-- Alert Message Here -->
+                                    <div class="col-12">
+                                         <div id="alertMessage"></div>
+                                    </div>
+
+
                                     <div class="col-md-12">
                                         <button class="button-3"><i class="fa-light fa-paper-plane"></i> Submit</button>
                                     </div>
+<br>
+                                     <!-- Alert Message Here -->
+                                    <div class="col-12">
+                                    <div id="alertMessage"></div>
+                                    </div>
+
                                 </div>
                             </div>
                         </form>
