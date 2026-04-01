@@ -4,7 +4,7 @@
         <div class="container">
             <div class="row justify-content-center align-items-center">
                 <div class="col-lg-7 col-md-12">
-                    <h1>Our Services</h1>
+                    <h1>Experiences</h1>
                 </div>
                 <div class="col-lg-5 col-md-12 text-end rotatex">
                    
