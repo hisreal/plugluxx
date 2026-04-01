@@ -69,7 +69,7 @@
         <div class="container">
             <!-- Logo -->
             <div class="logo-wrapper">
-                <a class="logo" href="index.html" aria-label="The Plugluxx Home">
+                <a class="logo" href="index.php" aria-label="The Plugluxx Home">
                     <img src="img/plug_logo.png" class="logo-img" alt="The Plugluxx logo">
                 </a>
             </div>
@@ -89,7 +89,7 @@
                     <li class="nav-item"><a class="nav-link" href="services.php">Services</a></li>
                     <li class="nav-item"><a class="nav-link" href="host.php">Become a Host</a></li>
                     <li class="nav-item"><a class="nav-link" href="cohost.php">Co Host</a></li>
-                    <li class="nav-item"><a class="nav-link" href="app.php">App Launch</a></li>
+                    <li class="nav-item"><a class="nav-link" href="app.php">Mobile App</a></li>
                     <li class="nav-item"><a class="nav-link" href="faq.php">FAQ</a></li>
                     <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
                     

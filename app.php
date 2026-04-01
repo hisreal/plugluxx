@@ -1,6 +1,6 @@
 <?php require_once("header.php"); ?>
 <!-- Kenburns SlideShow -->
- <section class="parallax-header valign bg-img bg-fixed" data-overlay-dark="5" data-background="img/offers/experience.webp">
+ <section class="parallax-header valign bg-img bg-fixed" data-overlay-dark="5" data-background="img/hero/mobilapp.jpg">
         <div class="container">
             <div class="row justify-content-center align-items-center">
                  <div class="col-lg-12 col-md-12">
@@ -20,7 +20,6 @@
         <!-- Header -->
         <div class="row justify-content-center text-center mb-5 reveal">
             <div class="col-lg-8">
-                <span class="luxx-badge">Mobile App Launch</span>
                 <h2 class="luxx-title">
                     Everything you need in one powerful platform
                 </h2>
@@ -33,8 +32,8 @@
         <!-- App Mockup -->
         <div class="row justify-content-center mb-5 reveal">
             <div class="col-lg-4 text-center">
-                <div class="luxx-app-wrapper">
-                    <img src="img/5be1d958-887f-4b66-bb5d-9db662d117d6.webp" class="luxx-app-preview" alt="">
+                <div class="">
+                    <img src="img/hero/b999bff0-b228-4a9a-9353-cbea3781e562 (1).png"  alt="">
                 </div>
             </div>
         </div>
@@ -82,9 +81,7 @@
         <div class="launch-cta text-center mt-5 reveal">
             <div class="section-title2 mb-3">Be among the first to experience it.</div>
             <div class="cta-buttons">
-                <div class="button-3">
-                    <a href="booking-system.html">Get Early Access</a>
-                </div>
+                
                 <div class="button-1">
                     <a href="booking-system.html">Join Waitlist</a>
                 </div>

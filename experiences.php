@@ -1,10 +1,11 @@
 <?php require_once("header.php"); ?>
 <!-- Kenburns SlideShow -->
- <section class="parallax-header valign bg-img bg-fixed" data-overlay-dark="5" data-background="img/offers/experience.webp">
+ <section class="parallax-header valign bg-img bg-fixed" data-overlay-dark="5" data-background="img/hero/113974.jpg">
         <div class="container">
             <div class="row justify-content-center align-items-center">
                 <div class="col-lg-7 col-md-12">
                     <h1>Experiences</h1>
+                     <p>Personal growth, wellness, and adventure curated with intention</p>
                 </div>
                 <div class="col-lg-5 col-md-12 text-end rotatex">
                    
@@ -23,17 +24,13 @@
                         <img  src="img/offers/4225.webp" alt="Curated Experiences by The Plug Luxx">
                     </div>
 
-                    <div class="service-floating-note">
-                        <span class="note-label">Experiences</span>
-                        <h4>Personal growth, wellness, and adventure curated with intention</h4>
-                    </div>
+                  
                 </div>
             </div>
 
             <!-- Content Side -->
             <div class="col-lg-6">
                 <div class="service-content">
-                    <div class="section-subtitle">Experiences</div>
                     <h2 class="section-title2 service-main-title">
                         Elevate your lifestyle with curated experiences designed to refine how you live
                     </h2>
@@ -42,16 +39,60 @@
                         Elevate your lifestyle with curated experiences designed for personal growth, wellness, and adventure.
                     </p>
 
-                    <div class="service-block">
-                        <h3>Available Experiences</h3>
-
-                        <div class="service-chip-grid">
-                            <div class="service-chip"><i class="fa-thin fa-dumbbell"></i><span>Personal Gym Coaching</span></div>
-                            <div class="service-chip"><i class="fa-thin fa-golf-ball-tee"></i><span>Private Golf Coaching</span></div>
-                            <div class="service-chip"><i class="fa-thin fa-mountain-sun"></i><span>Hiking & Outdoor Adventures</span></div>
-                            <div class="service-chip"><i class="fa-thin fa-spa"></i><span>Wellness & Lifestyle Sessions</span></div>
+                    <div class="row offers1">
+                        <div class="col-lg-6 col-md-6">
+                            <div class="item">
+                                <div class="img">
+                                    <img src="img/hero/5545.jpg" alt="Luxury Cars">
+                                </div>
+                                <div class="con">
+                                    <div class="title">Personal Gym Coaching</div>
+                                   
+                                </div>
+                            </div>
                         </div>
+
+                        <div class="col-lg-6 col-md-6">
+                            <div class="item">
+                                <div class="img">
+                                    <img src="img/hero/2754.jpg" alt="Luxury Properties">
+                                </div>
+                                <div class="con">
+                                    <div class="title">Private Golf Coaching</div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+
+                          <div class="col-lg-6 col-md-6">
+                            <div class="item">
+                                <div class="img">
+                                    <img src="img/hero/190.jpg" alt="Luxury Properties">
+                                </div>
+                                <div class="con">
+                                    <div class="title">Hiking & Outdoor Adventuresg</div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+
+                        
+                          <div class="col-lg-6 col-md-6">
+                            <div class="item">
+                                <div class="img">
+                                    <img src="img/hero/102275.jpg" alt="Luxury Properties">
+                                </div>
+                                <div class="con">
+                                    <div class="title">Wellness & Lifestyle Sessions</div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+
+
                     </div>
+
+
 
                     <div class="service-block">
                         <h3>Premium Features</h3>

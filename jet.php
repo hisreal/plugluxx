@@ -1,10 +1,11 @@
 <?php require_once("header.php"); ?>
 <!-- Kenburns SlideShow -->
- <section class="parallax-header valign bg-img bg-fixed" data-overlay-dark="5" data-background="img/offers/experience.webp">
+ <section class="parallax-header valign bg-img bg-fixed" data-overlay-dark="5" data-background="img/hero/ins_link_DUfQ96SDV2A_9.jpg">
         <div class="container">
             <div class="row justify-content-center align-items-center">
                 <div class="col-lg-7 col-md-12">
                     <h1>Private Jets</h1>
+                    <p>Speed, privacy, and ultimate comfort without compromise</p>
                 </div>
                 <div class="col-lg-5 col-md-12 text-end rotatex">
                    
@@ -23,17 +24,13 @@
                         <img src="img/offers/ins_link_DUfQ96SDV2A_1.webp" alt="Private Jets by The Plugluxx">
                     </div>
 
-                    <div class="service-floating-note">
-                        <span class="note-label">Private Jets</span>
-                        <h4>Speed, privacy, and ultimate comfort without compromise</h4>
-                    </div>
+                
                 </div>
             </div>
 
             <!-- Content Side -->
             <div class="col-lg-6">
                 <div class="service-content">
-                    <div class="section-subtitle">Private Jets</div>
                     <h2 class="section-title2 service-main-title">
                         Travel beyond commercial limits with exclusive private jet experiences
                     </h2>

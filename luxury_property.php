@@ -1,10 +1,11 @@
 <?php require_once("header.php"); ?>
 <!-- Kenburns SlideShow -->
- <section class="parallax-header valign bg-img bg-fixed" data-overlay-dark="5" data-background="img/offers/experience.webp">
+ <section class="parallax-header valign bg-img bg-fixed" data-overlay-dark="5" data-background="img/hero/house-with-lot-windows-view-ocean.jpg">
         <div class="container">
             <div class="row justify-content-center align-items-center">
                 <div class="col-lg-7 col-md-12">
                     <h1>Luxury Properties</h1>
+                    <p>Comfort, privacy, and elegance for refined living</p>
                 </div>
                 <div class="col-lg-5 col-md-12 text-end rotatex">
                    
@@ -24,10 +25,7 @@
                         <img src="img/offers/luxury_property.webp" alt="Luxury Properties by The Plugluxx">
                     </div>
 
-                    <div class="service-floating-note">
-                        <span class="note-label">Luxury Properties</span>
-                        <h4>Comfort, privacy, and elegance for refined living</h4>
-                    </div>
+                   
                 </div>
             </div>
 

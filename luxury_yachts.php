@@ -5,6 +5,8 @@
             <div class="row justify-content-center align-items-center">
                 <div class="col-lg-7 col-md-12">
                     <h1>Yachts</h1>
+                  <p>Leisure, celebration, and unforgettable moments on the water</p>
+
                 </div>
                 <div class="col-lg-5 col-md-12 text-end rotatex">
                    
@@ -23,10 +25,7 @@
                         <img src="img/offers/viktor-ritsvall-FWJinfDsIn8-unsplash.webp" alt="Luxury Yachts by The Plug Luxx">
                     </div>
 
-                    <div class="service-floating-note">
-                        <span class="note-label">Luxury Yachts</span>
-                        <h4>Leisure, celebration, and unforgettable moments on the water</h4>
-                    </div>
+                    
                 </div>
             </div>
 

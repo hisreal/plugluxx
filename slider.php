@@ -9,7 +9,7 @@
                 </div>
                <div class="col-lg-12 col-md-12">
                     <div class="button-3"   >
-                        <a href="booking-system.html">Explore Listings</a>
+                        <a href="services.php">Learn More</a>
                     </div>
 
                       <div class="button-2"   >

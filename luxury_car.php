@@ -1,10 +1,11 @@
 <?php require_once("header.php"); ?>
 <!-- Kenburns SlideShow -->
- <section class="parallax-header valign bg-img bg-fixed" data-overlay-dark="5" data-background="img/offers/experience.webp">
+ <section class="parallax-header valign bg-img bg-fixed" data-overlay-dark="5" data-background="img/offers/car.webp">
         <div class="container">
             <div class="row justify-content-center align-items-center">
                 <div class="col-lg-7 col-md-12">
                     <h1>Luxury Cars</h1>
+                    <p>Power, prestige, and style on every journey</p>
                 </div>
                 <div class="col-lg-5 col-md-12 text-end rotatex">
                    
@@ -21,13 +22,10 @@
             <div class="col-lg-6">
                 <div class="service-hero-media">
                     <div class="service-main-image">
-                        <img src="img/offers/DSC04692 copy.jpg12345.webp" alt="Luxury Cars by The Plugluxx">
+                        <img src="img/offers/ins_link_DUfQ96SDV2A_4-ezgif.com-jpg-to-webp-converter.webp" alt="Luxury Cars by The Plugluxx">
                     </div>
 
-                    <div class="service-floating-note">
-                        <span class="note-label">Luxury Cars</span>
-                        <h4>Power, prestige, and style on every journey</h4>
-                    </div>
+                   
                 </div>
             </div>
 

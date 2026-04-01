@@ -23,7 +23,7 @@
             <div class="section-title2 mb-3">Be among the first to experience it.</div>
             <div class="cta-buttons">
                 <div class="button-3">
-                    <a href="booking-system.html">Get Early Access</a>
+                    <a href="app.php">Get Early Access</a>
                 </div>
                
             </div>
@@ -237,8 +237,8 @@
       </p>
 
       <div class="d-flex flex-column flex-sm-row justify-content-center gap-3">
-        <a href="#" class="btn cta-btn-primary">Get Started</a>
-        <a href="#" class="btn cta-btn-outline">Learn More</a>
+        <a href="contact.php" class="btn cta-btn-primary">Get Started</a>
+        <a href="services.php" class="btn cta-btn-outline">Learn More</a>
       </div>
     </div>
   </div>

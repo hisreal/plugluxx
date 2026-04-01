@@ -1,10 +1,11 @@
 <?php require_once("header.php"); ?>
 <!-- Kenburns SlideShow -->
- <section class="parallax-header valign bg-img bg-fixed" data-overlay-dark="5" data-background="img/offers/experience.webp">
+ <section class="parallax-header valign bg-img bg-fixed" data-overlay-dark="5" data-background="img/hero/swimming-pool-luxury-hotel.jpg">
         <div class="container">
             <div class="row justify-content-center align-items-center">
                 <div class="col-lg-7 col-md-12">
                     <h1>Hotels & Short Stays</h1>
+                    <p>Refined hospitality for comfort, relaxation, and class</p>
                 </div>
                 <div class="col-lg-5 col-md-12 text-end rotatex">
                    
@@ -23,10 +24,7 @@
                         <img src="img/offers/short-stay.webp" alt="Hotels and Short Stays by The Plugluxx">
                     </div>
 
-                    <div class="service-floating-note">
-                        <span class="note-label">Hotels & Short Stays</span>
-                        <h4>Refined hospitality for comfort, relaxation, and class</h4>
-                    </div>
+        
                 </div>
             </div>
 
