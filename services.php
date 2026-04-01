@@ -41,7 +41,7 @@
                         <p class="luxx-card-text">
                             Drive high performance vehicles that combine power, prestige, and style for every journey.
                         </p>
-                        <a href="luxury_car.php" class="button-3 mb-15">Explore</a>
+                        <a href="luxury_car" class="button-3 mb-15">Explore</a>
                     </div>
                 </div>
             </div>
@@ -57,7 +57,7 @@
                         <p class="luxx-card-text">
                             Explore apartments, villas, and penthouses designed for comfort, sophistication, and elegance.
                         </p>
-                        <a href="luxury_property.php" class="button-3 mb-15">Explore</a>
+                        <a href="luxury_property" class="button-3 mb-15">Explore</a>
                     </div>
                 </div>
             </div>
@@ -73,7 +73,7 @@
                         <p class="luxx-card-text">
                             Experience refined hospitality with premium hotel and short let options tailored to your lifestyle.
                         </p>
-                        <a href="hotel.php" class="button-3 mb-15">Explore</a>
+                        <a href="hotel" class="button-3 mb-15">Explore</a>
                     </div>
                 </div>
             </div>
@@ -90,7 +90,7 @@
                         <p class="luxx-card-text">
                         Travel on your terms with exclusive private aviation experiences built around comfort and flexibility.
                         </p>
-                        <a href="jet.php" class="button-3 mb-15">Explore</a>
+                        <a href="jet" class="button-3 mb-15">Explore</a>
                     </div>
                 </div>
             </div>
@@ -106,7 +106,7 @@
                         <p class="luxx-card-text">
                         Sail in style with world class yacht experiences that deliver privacy, luxury, and unforgettable moments.
                         </p>
-                        <a href="luxury_yachts.php" class="button-3 mb-15">Explore</a>
+                        <a href="luxury_yachts" class="button-3 mb-15">Explore</a>
                     </div>
                 </div>
             </div>
@@ -122,7 +122,7 @@
                         <p class="luxx-card-text">
                         From personal coaching to curated lifestyle experiences, elevate how you live and engage with luxury.
                         </p>
-                        <a href="experiences.php" class="button-3 mb-15">Explore</a>
+                        <a href="experiences" class="button-3 mb-15">Explore</a>
                     </div>
                 </div>
             </div>

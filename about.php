@@ -12,7 +12,7 @@
             </div>
         </div>
     </section>
-<?php //require_once("slider.php"); ?>
+<?php //require_once("slider"); ?>
 <section class="about-luxx-split about section-padding bg-lightbrown">
     <div class="container">
         <div class="row align-items-center g-5">
@@ -21,7 +21,7 @@
             <div class="col-lg-6">
                 <div class="about-image-wrap">
                     <div class="about-image-main">
-                        <img class="rounded-2 animation-float2" src="img/offers/DSC04979 copy.jpg12345.webp" alt="Luxury experience by The Plug Luxx" class="img-fluid">
+                        <img class="rounded-2 animation-float2" src="img/offers/DSC04979 copy.jpg12345.webp" alt="Luxury experience by The PlugLuxx" class="img-fluid">
                     </div>
 
                     <div class="about-floating-card">
@@ -34,13 +34,13 @@
             <!-- Content Side -->
             <div class="col-lg-6">
                 <div class="about-content">
-                    <div class="section-subtitle">About The Plug Luxx</div>
+                    <div class="section-subtitle">About The PlugLuxx</div>
                     <h2 class="section-title2 about-title">
                         Connecting luxury providers with clients across the world
                     </h2>
 
                     <p class="about-text">
-                        The Plug Luxx was created to bridge the gap between luxury providers and global clients seeking premium experiences.
+                        The PlugLuxx was created to bridge the gap between luxury providers and global clients seeking premium experiences.
                     </p>
 
                     <p class="about-text">

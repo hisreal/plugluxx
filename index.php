@@ -2,7 +2,7 @@
 <?php require_once("slider.php"); ?>
 <section class="contact about app-launch section-padding bg-lightbrown">
     <div class="container">
-                <div class="section-title2">Mobile App Launching Soon</div>
+                <div class="section-title2">Mobile App Launching Soon!</div>
 
         <div style="background: white; border-radius: 20px; padding: 15px" class="row align-items-center mb-5 py-10">
     
@@ -23,7 +23,7 @@
             <div class="section-title2 mb-3">Be among the first to experience it.</div>
             <div class="cta-buttons">
                 <div class="button-3">
-                    <a href="app.php">Get Early Access</a>
+                    <a href="app">Get Early Access</a>
                 </div>
                
             </div>
@@ -46,7 +46,7 @@
                     <p>We go beyond listings — we create opportunities for discovery, connection, and income.</p>
 
 
-                    <a href="about.php" class="button-3 mb-15">Read More</a>
+                    <a href="about" class="button-3 mb-15">Read More</a>
                 </div>
                 <div class="col-lg-3 offset-lg-1 col-md-6 mb-20 mt-45"> <img class="rounded-2 animation-float1" src="img/offers/DSC04979 copy.jpg12345.webp" alt=""> </div>
                 <div class="col-lg-3 col-md-6 mb-20"> <img class="rounded-2 animation-float2"  src="img/offers/IMG_9100.JPG.webp"  alt=""> </div>
@@ -76,7 +76,7 @@
                     <div class="con">
                         <div class="title">Luxury Cars</div>
                         <div class="arrow">
-                            <a href="luxury_car.php"><span class="fa-light fa-arrow-right"></span></a>
+                            <a href="luxury_car"><span class="fa-light fa-arrow-right"></span></a>
                         </div>
                     </div>
                 </div>
@@ -90,7 +90,7 @@
                     <div class="con">
                         <div class="title">Luxury Properties</div>
                         <div class="arrow">
-                            <a href="luxury_property.php"><span class="fa-light fa-arrow-right"></span></a>
+                            <a href="luxury_property"><span class="fa-light fa-arrow-right"></span></a>
                         </div>
                     </div>
                 </div>
@@ -104,7 +104,7 @@
                     <div class="con">
                         <div class="title">Hotels & Short Stays</div>
                         <div class="arrow">
-                            <a href="hotel.php"><span class="fa-light fa-arrow-right"></span></a>
+                            <a href="hotel"><span class="fa-light fa-arrow-right"></span></a>
                         </div>
                     </div>
                 </div>
@@ -118,7 +118,7 @@
                     <div class="con">
                         <div class="title">Private Jets</div>
                         <div class="arrow">
-                            <a href="jet.php"><span class="fa-light fa-arrow-right"></span></a>
+                            <a href="jet"><span class="fa-light fa-arrow-right"></span></a>
                         </div>
                     </div>
                 </div>
@@ -132,7 +132,7 @@
                     <div class="con">
                         <div class="title">Luxury Yachts</div>
                         <div class="arrow">
-                            <a href="luxury_yachts.php"><span class="fa-light fa-arrow-right"></span></a>
+                            <a href="luxury_yachts"><span class="fa-light fa-arrow-right"></span></a>
                         </div>
                     </div>
                 </div>
@@ -146,7 +146,7 @@
                     <div class="con">
                         <div class="title">Experiences</div>
                         <div class="arrow">
-                            <a href="experiences.php"><span class="fa-light fa-arrow-right"></span></a>
+                            <a href="experiences"><span class="fa-light fa-arrow-right"></span></a>
                         </div>
                     </div>
                 </div>
@@ -237,8 +237,8 @@
       </p>
 
       <div class="d-flex flex-column flex-sm-row justify-content-center gap-3">
-        <a href="contact.php" class="btn cta-btn-primary">Get Started</a>
-        <a href="services.php" class="btn cta-btn-outline">Learn More</a>
+        <a href="contact" class="btn cta-btn-primary">Get Started</a>
+        <a href="services" class="btn cta-btn-outline">Learn More</a>
       </div>
     </div>
   </div>
