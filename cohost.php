@@ -4,7 +4,7 @@
         <div class="container">
             <div class="row justify-content-center align-items-center">
                  <div class="col-lg-12 col-md-12">
-                    <h1>   Become Our <br> Cohost </h1>
+                    <h1>   Become Our <br> Co host </h1>
                     <p>You don't need to own a property or car to earn on The PlugLuxx<br>Become a Co-Host and start generating income by supporting Hosts.</p>
                 </div>
                <div class="col-lg-12 col-md-12">
@@ -85,35 +85,35 @@
                 <div class="col-md-4 col-lg">
                     <div class="step-card applicant-card">
                         <i class="fa-thin fa-laptop"></i>
-                        <h4>Freelancers</h4>
+                        <h6>Freelancers</h6>
                     </div>
                 </div>
 
                 <div class="col-md-4 col-lg">
                     <div class="step-card applicant-card">
                         <i class="fa-thin fa-graduation-cap"></i>
-                        <h4>Students</h4>
+                        <h6>Students</h6>
                     </div>
                 </div>
 
                 <div class="col-md-4 col-lg">
                     <div class="step-card applicant-card">
                         <i class="fa-thin fa-wifi"></i>
-                        <h4>Remote Workers</h4>
+                        <h6>Remote Workers</h6>
                     </div>
                 </div>
 
                 <div class="col-md-6 col-lg">
                     <div class="step-card applicant-card">
                         <i class="fa-thin fa-concierge-bell"></i>
-                        <h4>Hospitality Professionals</h4>
+                        <h6>Hospitality Professionals</h6>
                     </div>
                 </div>
 
                 <div class="col-md-6 col-lg">
                     <div class="step-card applicant-card">
                         <i class="fa-thin fa-user-check"></i>
-                        <h4>Anyone Organized and Reliable</h4>
+                        <h6>Anyone Organized and Reliable</h6>
                     </div>
                 </div>
 

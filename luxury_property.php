@@ -1,6 +1,6 @@
 <?php require_once("header.php"); ?>
 <!-- Kenburns SlideShow -->
- <section class="parallax-header valign bg-img bg-fixed" data-overlay-dark="5" data-background="img/hero/house-with-lot-windows-view-ocean.jpg">
+ <section class="parallax-header valign bg-img bg-fixed" data-overlay-dark="5" data-background="img/hero/house-with-view-night-sky-stars-sky.jpg">
         <div class="container">
             <div class="row justify-content-center align-items-center">
                 <div class="col-lg-7 col-md-12">
@@ -22,7 +22,7 @@
             <div class="col-lg-6">
                 <div class="service-hero-media">
                     <div class="service-main-image">
-                        <img src="img/offers/luxury_property.webp" alt="Luxury Properties by The Plugluxx">
+                        <img src="img/hero/house-with-lot-windows-view-ocean.jpg" alt="Luxury Properties by The Plugluxx">
                     </div>
 
                    

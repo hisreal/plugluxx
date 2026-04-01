@@ -21,7 +21,7 @@
             <div class="col-lg-6">
                 <div class="service-hero-media">
                     <div class="service-main-image">
-                        <img src="img/offers/short-stay.webp" alt="Hotels and Short Stays by The Plugluxx">
+                        <img src="img/offers/3d-rendering-beautiful-luxury-bedroom-suite-hotel-with-tv-working-table.jpg" alt="Hotels and Short Stays by The Plugluxx">
                     </div>
 
         

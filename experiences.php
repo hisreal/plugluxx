@@ -17,19 +17,10 @@
     <div class="container">
         <div class="row align-items-center g-5">
 
-            <!-- Image Side -->
-            <div class="col-lg-6">
-                <div class="service-hero-media">
-                    <div class="service-main-image">
-                        <img  src="img/offers/4225.webp" alt="Curated Experiences by The Plug Luxx">
-                    </div>
-
-                  
-                </div>
-            </div>
+           
 
             <!-- Content Side -->
-            <div class="col-lg-6">
+            <div class="col-lg-8 offset-2">
                 <div class="service-content">
                     <h2 class="section-title2 service-main-title">
                         Elevate your lifestyle with curated experiences designed to refine how you live
@@ -70,7 +61,7 @@
                                     <img src="img/hero/190.jpg" alt="Luxury Properties">
                                 </div>
                                 <div class="con">
-                                    <div class="title">Hiking & Outdoor Adventuresg</div>
+                                    <div class="title">Hiking & Outdoor Adventures</div>
                                     
                                 </div>
                             </div>

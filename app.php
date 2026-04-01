@@ -83,11 +83,85 @@
             <div class="cta-buttons">
                 
                 <div class="button-1">
-                    <a href="booking-system.html">Join Waitlist</a>
+                    <a type="button"  data-bs-toggle="modal" data-bs-target="#waitlistModal">Join Waitlist</a>
                 </div>
             </div>
         </div>
 
     </div>
 </section>
+
+
+<!-- Modal -->
+<div class="modal fade" id="waitlistModal" tabindex="-1" aria-labelledby="waitlistModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-lg">
+    <div class="modal-content tpl-modal-content border-0">
+
+      <div class="modal-header border-0 pb-0">
+        <div>
+          <span class="tpl-badge">Exclusive Access</span>
+          <h2 class="modal-title tpl-modal-title mt-3" id="waitlistModalLabel">Join the Waitlist</h2>
+        </div>
+            <!-- Custom Close Button -->
+            <button type="button" class="tpl-close-btn" data-bs-dismiss="modal" aria-label="Close">
+                &times;
+            </button>     
+         </div>
+
+      <div class="modal-body pt-2">
+        <p class="tpl-lead">
+          Be the first to experience <strong>ThePlugLuxx App</strong>.
+        </p>
+        <p class="tpl-subtext">
+          Get early access to luxury bookings, premium listings, and earning opportunities.
+        </p>
+
+        <div class="tpl-benefits-box mb-4">
+          <h5 class="tpl-section-title">Why Join?</h5>
+          <ul class="tpl-benefits-list">
+            <li>Early access before public launch</li>
+            <li>Exclusive luxury deals & listings</li>
+            <li>Opportunity to earn as a Host or Co Host</li>
+          </ul>
+        </div>
+
+        <form>
+          <h5 class="tpl-section-title mb-3">Your Details</h5>
+
+          <div class="row g-3">
+            <div class="col-md-6">
+              <input type="text" class="form-control tpl-input" placeholder="Full Name" required>
+            </div>
+
+            <div class="col-md-6">
+              <input type="email" class="form-control tpl-input" placeholder="Email Address" required>
+            </div>
+
+            <div class="col-md-6">
+              <input type="tel" class="form-control tpl-input" placeholder="Phone Number (WhatsApp)" required>
+            </div>
+
+            <div class="col-md-6">
+              <input type="text" class="form-control tpl-input" placeholder="Location" required>
+            </div>
+
+            <div class="col-12">
+              <select class="form-select tpl-input" required>
+                <option value="" selected disabled>Select Interest</option>
+                <option>Book luxury services</option>
+                <option>List my property/car/service</option>
+                <option>Co host and earn</option>
+              </select>
+            </div>
+
+            <div class="col-12 pt-2">
+              <button type="submit" class="tpl-submit-btn w-100">Join Waitlist</button>
+            </div>
+          </div>
+        </form>
+      </div>
+
+    </div>
+  </div>
+</div>
 <?php require_once("footer.php"); ?>
