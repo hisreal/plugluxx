@@ -15,12 +15,12 @@
     </section>
 <section class="single-service-premium section-padding bg-lightbrown">
     <div class="container">
-        <div class="row align-items-center g-5">
+        <div class="row justify-content-center align-items-center g-5">
 
            
 
             <!-- Content Side -->
-            <div class="col-lg-8 offset-2">
+            <div class="col-lg-8 ">
                 <div class="service-content">
                     <h2 class="section-title2 service-main-title">
                         Elevate your lifestyle with curated experiences designed to refine how you live

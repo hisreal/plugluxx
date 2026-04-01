@@ -32,7 +32,6 @@
             <!-- Content Side -->
             <div class="col-lg-6">
                 <div class="service-content">
-                    <div class="section-subtitle">Luxury Yachts</div>
                     <h2 class="section-title2 service-main-title">
                         Sail into a world of elegance with premium yacht experiences
                     </h2>
