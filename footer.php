@@ -102,10 +102,10 @@
                 <div class="col-lg-8 col-md-12">
                     <div class="links">
                         <ul>
-                            <li><a href="index.php">Home</a></li>
-                            <li><a href="about.php">About</a></li>
-                            <li><a href="services.php">Services</a></li>
-                            <li><a href="contact.php">Contact</a></li>
+                            <li><a href="index">Home.</a></li>
+                            <li><a href="about">About</a></li>
+                            <li><a href="services">Services</a></li>
+                            <li><a href="contact">Contact</a></li>
                         </ul>
                     </div>
                 </div>
