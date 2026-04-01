@@ -82,7 +82,7 @@
              <div id="hotel" class="col-12 col-md-6 col-lg-4">
                 <div class="luxx-card-premium">
                     <div class="luxx-card-image">
-                        <img src="img/offers/ins_link_DUfQ96SDV2A_1.webp" alt="Hotels and Short Stays">
+                        <img src="img/offers/jet.jpg" alt="Hotels and Short Stays">
                     </div>
                     <div class="luxx-card-body">
                      
