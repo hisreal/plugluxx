@@ -1,6 +1,6 @@
 <?php require_once("header.php"); ?>
 <!-- Kenburns SlideShow -->
- <section class="parallax-header valign bg-img bg-fixed" data-overlay-dark="5" data-background="img/offers/experience.webp">
+ <section class="parallax-header valign bg-img bg-fixed" data-overlay-dark="5" data-background="img/hero/marcin-ciszewski-Zexjl0v3MRU-unsplash.jpg">
         <div class="container">
             <div class="row justify-content-center align-items-center">
                 <div class="col-lg-7 col-md-12">

@@ -31,7 +31,6 @@
             <!-- Content Side -->
             <div class="col-lg-6">
                 <div class="service-content">
-                    <div class="section-subtitle">Hotels & Short Stays</div>
                     <h2 class="section-title2 service-main-title">
                         Experience premium hotel stays and short let spaces designed for elegant living
                     </h2>
