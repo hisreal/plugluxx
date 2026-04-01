@@ -85,14 +85,11 @@
 
 
                                     <div class="col-md-12">
-                                        <button class="button-3"><i class="fa-light fa-paper-plane"></i> Submit</button>
+                                        <button  id="submitBtn"  class="button-3"><i class="fa-light fa-paper-plane"></i> Submit</button>
                                     </div>
 <br>
                                      <!-- Alert Message Here -->
-                                    <div class="col-12">
-                                    <div id="alertMessage"></div>
-                                    </div>
-
+                                   
                                 </div>
                             </div>
                         </form>
