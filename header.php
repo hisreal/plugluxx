@@ -69,7 +69,7 @@
         <div class="container">
             <!-- Logo -->
             <div class="logo-wrapper">
-                <a class="logo" href="index.php" aria-label="The Plugluxx Home">
+                <a class="logo" href="index" aria-label="The Plugluxx Home">
                     <img src="img/plug_logo.png" class="logo-img" alt="The Plugluxx logo">
                 </a>
             </div>
@@ -84,26 +84,26 @@
             <!-- Menu -->
             <div class="collapse navbar-collapse" id="navbar">
                 <ul class="navbar-nav mx-auto">
-                    <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
-                    <li class="nav-item"><a class="nav-link" href="about.php">About</a></li>
-                    <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="services.php" role="button" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false">Services <i class="fa-light fa-angle-down"></i></a>
+                    <li class="nav-item"><a class="nav-link" href="index">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="about">About</a></li>
+                    <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="services" role="button" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false">Services <i class="fa-light fa-angle-down"></i></a>
                         <ul class="dropdown-menu">
-                            <li><a href="services.php" class="dropdown-item"><span>All</span></a></li>
+                            <li><a href="services" class="dropdown-item"><span>Alll</span></a></li>
                             
-                            <li><a href="luxury_car.php" class="dropdown-item"><span>Luxury Cars</span></a></li>
-                            <li><a href="luxury_property.php" class="dropdown-item"><span>Luxury Property</span></a></li>
-                            <li><a href="hotel.php" class="dropdown-item"><span>Hotels and Short Stays</span></a></li>
-                            <li><a href="jet.php" class="dropdown-item"><span>Private Jets</span></a></li>
-                            <li><a href="luxury_yachts.php" class="dropdown-item"><span>Luxury Yachts</span></a></li>
-                            <li><a href="experiences.php" class="dropdown-item"><span>Experiences</span></a></li>
+                            <li><a href="luxury_car" class="dropdown-item"><span>Luxury Cars</span></a></li>
+                            <li><a href="luxury_property" class="dropdown-item"><span>Luxury Property</span></a></li>
+                            <li><a href="hotel" class="dropdown-item"><span>Hotels and Short Stays</span></a></li>
+                            <li><a href="jet" class="dropdown-item"><span>Private Jets</span></a></li>
+                            <li><a href="luxury_yachts" class="dropdown-item"><span>Luxury Yachts</span></a></li>
+                            <li><a href="experiences" class="dropdown-item"><span>Experiences</span></a></li>
 
 
                         </ul>
-                    </li>                    <li class="nav-item"><a class="nav-link" href="host.php">Become a Host</a></li>
-                    <li class="nav-item"><a class="nav-link" href="cohost.php">Co Host</a></li>
-                    <li class="nav-item"><a class="nav-link" href="app.php">Mobile App</a></li>
-                    <li class="nav-item"><a class="nav-link" href="faq.php">FAQ</a></li>
-                    <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
+                    </li>                    <li class="nav-item"><a class="nav-link" href="host">Become a Host</a></li>
+                    <li class="nav-item"><a class="nav-link" href="cohost">Co Host</a></li>
+                    <li class="nav-item"><a class="nav-link" href="app">Mobile App</a></li>
+                    <li class="nav-item"><a class="nav-link" href="faq">FAQ</a></li>
+                    <li class="nav-item"><a class="nav-link" href="contact">Contact</a></li>
                     
                 </ul>
             </div>
