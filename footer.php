@@ -175,7 +175,57 @@ document.addEventListener("DOMContentLoaded", function () {
                 animationDuration: 20000
             });
         });
+
+
+        
+        
     </script>
+
+    <script>
+$(document).ready(function() {
+    $('#contact-form').on('submit', function(e) {
+        e.preventDefault();
+
+        let form = $(this);
+        let alertBox = $('#alertMessage');
+        let submitBtn = $('#submitBtn');
+
+        alertBox.html('');
+
+        // Disable button + show loading text
+        submitBtn.prop('disabled', true);
+        submitBtn.html('Sending...');
+
+        $.ajax({
+            url: 'includes/send_email.php',
+            type: 'POST',
+            data: form.serialize(),
+            dataType: 'json',
+
+            success: function(response) {
+                if(response.status === 'success') {
+                    alertBox.html('<div class="alert alert-success">'+response.message+'</div>');
+                    form[0].reset();
+                } else {
+                    alertBox.html('<div class="alert alert-danger">'+response.message+'</div>');
+                }
+            },
+
+            error: function() {
+                alertBox.html('<div class="alert alert-danger">An unexpected error occurred. Please try again.</div>');
+            },
+
+            complete: function() {
+                // Re-enable button
+                submitBtn.prop('disabled', false);
+                submitBtn.html('Request Quote');
+            }
+        });
+    });
+});
+submitBtn.html('<span class="spinner-border spinner-border-sm"></span> Sending...');
+</script>
+
 </body>
 
 </html>

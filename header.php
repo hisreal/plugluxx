@@ -91,7 +91,7 @@
                             <li><a href="services" class="dropdown-item"><span>All</span></a></li>
                             
                             <li><a href="luxury_car" class="dropdown-item"><span>Luxury Cars</span></a></li>
-                            <li><a href="luxury_property" class="dropdown-item"><span>Luxury Property</span></a></li>
+                            <li><a href="luxury_property" class="dropdown-item"><span>Luxury Properties</span></a></li>
                             <li><a href="hotel" class="dropdown-item"><span>Hotels and Short Stays</span></a></li>
                             <li><a href="jet" class="dropdown-item"><span>Private Jets</span></a></li>
                             <li><a href="luxury_yachts" class="dropdown-item"><span>Luxury Yachts</span></a></li>
