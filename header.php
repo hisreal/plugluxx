@@ -64,7 +64,7 @@
         </svg>
     </div>
 <a href="https://wa.me/234XXXXXXXXXX" target="_blank" class="whatsapp-float">
-    <i class="fa-brands fa-whatsapp"></i>
+    <img src="img/whatsapp.svg" width="55" alt="Chat on WhatsApp">
 </a>
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg">

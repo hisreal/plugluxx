@@ -5570,22 +5570,20 @@ body.mfp-zoom-out-cur {
 .whatsapp-float {
     position: fixed;
     bottom: 30px;
-    left: 30px; /* moved from right → left */
-    height: 55px;
-    width: 55px;
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    left: 30px;
+    z-index: 9999;
+    display: inline-block;
+}
+
+.whatsapp-float svg {
     border-radius: 50%;
-    z-index: 1000;
-
-    background-color: #25D366; /* WhatsApp green */
-    color: #fff;
-
     box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    cursor: pointer;
+}
 
-    transition: all 0.3s ease;
+.whatsapp-float svg:hover {
+    transform: scale(1.1);
+    transition: 0.3s ease;
 }
 
 .whatsapp-float:hover {
