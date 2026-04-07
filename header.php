@@ -63,8 +63,8 @@
             <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
         </svg>
     </div>
-<a href="https://wa.me/234XXXXXXXXXX" target="_blank" class="whatsapp-float">
-    <img src="img/whatsapp.svg" width="55" alt="Chat on WhatsApp">
+<a href="https://wa.me/+27647744907" target="_blank" class="whatsapp-float">
+    <img src="img/whatsapp.png" width="55" alt="Chat on WhatsApp">
 </a>
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg">

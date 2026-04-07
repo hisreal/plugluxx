@@ -5570,13 +5570,16 @@ body.mfp-zoom-out-cur {
 .whatsapp-float {
     position: fixed;
     bottom: 30px;
+    width: 55px;
+    
     left: 30px;
     z-index: 9999;
     display: inline-block;
 }
 
-.whatsapp-float svg {
+.whatsapp-float img {
     border-radius: 50%;
+   
     box-shadow: 0 4px 10px rgba(0,0,0,0.2);
     cursor: pointer;
 }
