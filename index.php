@@ -141,7 +141,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="item">
                     <div class="img">
-                        <img  src="img/offers/4225.webp" alt="Experiences and Services">
+                        <img  src="img/offers/4225.jpg" alt="Experiences and Services">
                     </div>
                     <div class="con">
                         <div class="title">Experiences</div>
