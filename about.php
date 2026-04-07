@@ -5,6 +5,7 @@
             <div class="row justify-content-center align-items-center">
                 <div class="col-lg-7 col-md-12">
                     <h1>About us</h1>
+                     <p>Luxury access with global reach</hp>
                 </div>
                 <div class="col-lg-5 col-md-12 text-end rotatex">
                    
@@ -21,13 +22,10 @@
             <div class="col-lg-6">
                 <div class="about-image-wrap">
                     <div class="about-image-main">
-                        <img class="rounded-2 animation-float2" src="img/offers/DSC04979 copy.jpg12345.webp" alt="Luxury experience by The PlugLuxx" class="img-fluid">
+                        <img class="rounded-2 animation-float2" src="img/offers/DSC04979 copy.jpg12345.JPG" alt="Luxury experience by The PlugLuxx" class="img-fluid">
                     </div>
 
-                    <div class="about-floating-card">
-                        <span class="floating-label">Premium Platform</span>
-                        <h4>Luxury access with global reach</h4>
-                    </div>
+                    
                 </div>
             </div>
 
