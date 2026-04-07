@@ -113,7 +113,7 @@
              <div class="col-lg-4 col-md-6">
                 <div class="item">
                     <div class="img">
-                        <img src="img/offers/ins_link_DUfQ96SDV2A_1.webp" alt="Private Jets and Yachts">
+                        <img src="img/offers/private_jet.jpg" alt="Private Jets and Yachts">
                     </div>
                     <div class="con">
                         <div class="title">Private Jets</div>

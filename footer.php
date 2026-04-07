@@ -121,7 +121,7 @@
     </div>
 </footer>
     <!-- jQuery -->
-    <script src="js/jquery-3.7.1.min.js"></script>
+ <script src="js/jquery-3.7.1.min.js"></script>
     <script src="js/jquery-migrate-3.4.1.min.js"></script>
     <script src="js/modernizr-2.6.2.min.js"></script>
     <script src="js/imagesloaded.pkgd.min.js"></script>
@@ -136,6 +136,7 @@
     <script src="js/YouTubePopUp.js"></script>
     <script src="js/select2.js"></script>
     <script src="js/datepicker.js"></script>
+    <script src="js/vegas.slider.min.js"></script>
     <script src="js/custom.js"></script>
 <script>
 document.addEventListener("DOMContentLoaded", function () {
@@ -157,7 +158,29 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 </script>
      
-    
+    <!-- Vegas Background Slideshow (vegas.slider kenburns) -->
+    <script>
+        $(document).ready(function() {
+            $('#kenburnsSliderContainer').vegas({
+                slides: [{
+                    src: "img/banner/1.jpg"
+                },
+                {
+                    src: "img/banner/2.png"
+                },{
+                    src: "img/banner/3.png"
+                },{
+                    src: "img/banner/4.png"
+                }],
+                overlay: true,
+                transition: 'fade2',
+                animation: 'kenburnsUpRight',
+                transitionDuration: 1000,
+                delay: 10000,
+                animationDuration: 20000
+            });
+        });
+    </script>
 </body>
 
 </html>
