@@ -48,7 +48,7 @@
 
                     <a href="about" class="button-3 mb-15">Read More</a>
                 </div>
-                <div class="col-lg-3 offset-lg-1 col-md-6 mb-20 mt-45"> <img class="rounded-2 animation-float1" src="img/offers/DSC04979 copy.jpg12345.webp" alt=""> </div>
+                <div class="col-lg-3 offset-lg-1 col-md-6 mb-20 mt-45"> <img class="rounded-2 animation-float1" src="img/offers/DSC04979 copy.jpg12345.jpg" alt=""> </div>
                 <div class="col-lg-3 col-md-6 mb-20"> <img class="rounded-2 animation-float2"  src="img/offers/IMG_9100.JPG.webp"  alt=""> </div>
             </div>
         </div>
