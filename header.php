@@ -63,7 +63,9 @@
             <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
         </svg>
     </div>
-
+<a href="https://wa.me/234XXXXXXXXXX" target="_blank" class="whatsapp-float">
+    <i class="fa-brands fa-whatsapp"></i>
+</a>
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg">
         <div class="container">
@@ -110,4 +112,3 @@
         </div>
     </nav>
 
-    

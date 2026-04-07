@@ -5567,6 +5567,48 @@ body.mfp-zoom-out-cur {
     }
 }
 
+.whatsapp-float {
+    position: fixed;
+    bottom: 30px;
+    left: 30px; /* moved from right → left */
+    height: 55px;
+    width: 55px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    z-index: 1000;
+
+    background-color: #25D366; /* WhatsApp green */
+    color: #fff;
+
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+
+    transition: all 0.3s ease;
+}
+
+.whatsapp-float:hover {
+    transform: scale(1.1);
+}
+
+/* WhatsApp icon */
+.whatsapp-float i {
+    font-size: 26px;
+}
+
+.whatsapp-float {
+    animation: bounce 2s infinite;
+}
+
+@keyframes bounce {
+    0%, 100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-5px);
+    }
+}
 
 /* ======= toTop Button style ======= */
 .progress-wrap {

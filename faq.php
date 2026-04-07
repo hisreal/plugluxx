@@ -1,5 +1,5 @@
 <?php require_once("header.php"); ?>
-<section class="parallax-header valign bg-img bg-fixed" data-overlay-dark="5" data-background="img/hero/393345876_3f1e1495-4ae5-479d-ac5b-a1df48da1a56.jpg">
+<section class="parallax-header valign bg-img bg-fixed" data-overlay-dark="5" data-background="img/offers/faq.jpg">
         <div class="container">
             <div class="row justify-content-center align-items-center">
                  <div class="col-lg-12 col-md-12">
