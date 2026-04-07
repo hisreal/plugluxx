@@ -24,7 +24,7 @@
                     Premium categories designed for comfort, class, and exclusivity
                 </h1>
                 <p class="services-intro">
-                    At The Plugluxx, we provide access to a wide range of premium categories tailored for individuals who value comfort, elegance, and elevated experiences.
+                    At ThePlugLuxx, we provide access to a wide range of premium categories tailored for individuals who value comfort, elegance, and elevated experiences.
                 </p>
             </div>
         </div>
@@ -134,7 +134,7 @@
             <div class="col-lg-10">
                 <div class="services-closing text-center">
                     <h2 class="closing-title">
-                        Every service on The Plugluxx is curated to meet the highest standards of luxury and client satisfaction.
+                        Every service on ThePlugLuxx is curated to meet the highest standards of luxury and client satisfaction.
                     </h2>
                 </div>
             </div>

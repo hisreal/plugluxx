@@ -22,7 +22,7 @@
             <div class="col-lg-6">
                 <div class="service-hero-media">
                     <div class="service-main-image">
-                        <img src="img/offers/ins_link_DUfQ96SDV2A_4-ezgif.com-jpg-to-webp-converter.webp" alt="Luxury Cars by The Plugluxx">
+                        <img src="img/offers/ins_link_DUfQ96SDV2A_4-ezgif.com-jpg-to-webp-converter.webp" alt="Luxury Cars by ThePlugLuxx">
                     </div>
 
                    

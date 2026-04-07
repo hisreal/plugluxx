@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>The Plugluxx | Luxury Experiences, Premium Listings & Hosting Opportunities</title>
+    <title>ThePlugLuxx | Luxury Experiences, Premium Listings & Hosting Opportunities</title>
 
-    <meta name="description" content="Discover The Plugluxx, a premium platform for luxury services, curated listings, short stays, properties, private experiences, hosting, co hosting, and exclusive earning opportunities.">
+    <meta name="description" content="Discover ThePlugLuxx, a premium platform for luxury services, curated listings, short stays, properties, private experiences, hosting, co hosting, and exclusive earning opportunities.">
 
-    <meta name="keywords" content="The Plugluxx, luxury services, luxury experiences, premium listings, short stays, luxury properties, private jets, yachts, luxury lifestyle, hosting opportunities, co hosting, luxury bookings, exclusive services, premium travel, luxury accommodation">
+    <meta name="keywords" content="ThePlugLuxx, luxury services, luxury experiences, premium listings, short stays, luxury properties, private jets, yachts, luxury lifestyle, hosting opportunities, co hosting, luxury bookings, exclusive services, premium travel, luxury accommodation">
 
-    <meta name="author" content="The Plugluxx">
+    <meta name="author" content="ThePlugLuxx">
     <meta name="robots" content="index, follow">
     <meta name="theme-color" content="#125A52">
 
@@ -20,16 +20,16 @@
 
     <!-- Open Graph -->
     <meta property="og:type" content="website">
-    <meta property="og:title" content="The Plugluxx | Luxury Experiences, Premium Listings & Hosting Opportunities">
-    <meta property="og:description" content="Explore premium services, curated luxury listings, and income generating opportunities with The Plugluxx.">
+    <meta property="og:title" content="ThePlugLuxx | Luxury Experiences, Premium Listings & Hosting Opportunities">
+    <meta property="og:description" content="Explore premium services, curated luxury listings, and income generating opportunities with ThePlugLuxx.">
     <meta property="og:url" content="https://www.theplugluxx.com/">
     <meta property="og:image" content="https://www.theplugluxx.com/img/plug_logo.png">
-    <meta property="og:site_name" content="The Plugluxx">
+    <meta property="og:site_name" content="ThePlugLuxx">
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="The Plugluxx | Luxury Experiences, Premium Listings & Hosting Opportunities">
-    <meta name="twitter:description" content="Discover luxury services, premium listings, hosting opportunities, and exclusive experiences with The Plugluxx.">
+    <meta name="twitter:title" content="ThePlugLuxx | Luxury Experiences, Premium Listings & Hosting Opportunities">
+    <meta name="twitter:description" content="Discover luxury services, premium listings, hosting opportunities, and exclusive experiences with ThePlugLuxx.">
     <meta name="twitter:image" content="https://www.theplugluxx.com/img/plug_logo.png">
 
     <!-- Fonts -->
@@ -51,7 +51,7 @@
                 <div class="loader-line-mask">
                     <div class="loader-line"></div>
                 </div>
-                <img src="img/logo/logo-single-white.png" alt="The Plugluxx logo">
+                <img src="img/logo/logo-single-white.png" alt="ThePlugLuxx logo">
             </div>
         </div>
     </div>
@@ -71,8 +71,8 @@
         <div class="container">
             <!-- Logo -->
             <div class="logo-wrapper">
-                <a class="logo" href="/" aria-label="The Plugluxx Home">
-                    <img src="img/logo/logo-full-white.png" class="logo-img" alt="The Plugluxx logo">
+                <a class="logo" href="/" aria-label="ThePlugLuxx Home">
+                    <img src="img/logo/logo-full-white.png" class="logo-img" alt="ThePlugLuxx logo">
                 </a>
             </div>
 

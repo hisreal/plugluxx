@@ -22,7 +22,7 @@
             <div class="col-lg-6">
                 <div class="service-hero-media">
                     <div class="service-main-image">
-                        <img src="img/hero/house-with-lot-windows-view-ocean.jpg" alt="Luxury Properties by The Plugluxx">
+                        <img src="img/hero/house-with-lot-windows-view-ocean.jpg" alt="Luxury Properties by ThePlugLuxx">
                     </div>
 
                    

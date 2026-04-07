@@ -6,7 +6,7 @@
                  <div class="col-lg-12 col-md-12">
                     <h1>Turn Your Luxury<br> Into Income </h1>
                     <p>Own a car, property, hotel, or luxury service?<br>
-The Plugluxx helps you turn it into a consistent revenue stream.
+ThePlugLuxx helps you turn it into a consistent revenue stream.
 </p>
                 </div>
                <div class="col-lg-12 col-md-12">
@@ -135,7 +135,7 @@ The Plugluxx helps you turn it into a consistent revenue stream.
     <!-- FINAL CTA -->
     <div class="host-final-cta">
         <div class="container text-center">
-            <h2>Start Earning Today — Become a PlugLuxx Host</h2>
+            <h2>Start Earning Today — ThePlugLuxx Host</h2>
             <a href="contact" class="host-cta large">Join Now</a>
         </div>
     </div>

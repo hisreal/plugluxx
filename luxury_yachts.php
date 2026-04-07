@@ -22,7 +22,7 @@
             <div class="col-lg-6">
                 <div class="service-hero-media">
                     <div class="service-main-image">
-                        <img src="img/offers/viktor-ritsvall-FWJinfDsIn8-unsplash.webp" alt="Luxury Yachts by The PlugLuxx">
+                        <img src="img/offers/viktor-ritsvall-FWJinfDsIn8-unsplash.webp" alt="Luxury Yachts by ThePlugLuxx">
                     </div>
 
                     
