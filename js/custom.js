@@ -60,7 +60,7 @@ $(function () {
         }
         else {
             navbar.removeClass("nav-scroll");
-            logo.attr('src', 'img/img/logo/logo-full-white.png');
+            logo.attr('src', 'img/logo/logo-full-white.png');
         }
     });
     
