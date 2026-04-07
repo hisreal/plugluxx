@@ -22,7 +22,7 @@
         </div>
     </section>-->
 
-     <aside class="kenburns-section" id="kenburnsSliderContainer" data-overlay-dark="5">
+     <aside class="kenburns-section" id="kenburnsSliderContainer" data-overlay-dark="1">
         <div class="kenburns-inner h-100">
             <div class="v-middle caption">
                 <div class="container">

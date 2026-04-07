@@ -175,9 +175,9 @@ document.addEventListener("DOMContentLoaded", function () {
                 overlay: true,
                 transition: 'fade2',
                 animation: 'kenburnsUpRight',
-                transitionDuration: 1000,
-                delay: 10000,
-                animationDuration: 20000
+                transitionDuration: 500,
+                delay: 5000,
+                animationDuration: 6000
             });
         });
     </script>
