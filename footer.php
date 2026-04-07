@@ -9,7 +9,7 @@
                 <div class="col-md-4 mb-30">
                     <div class="item">
                         <div class="logo">
-                            <img src="img/plug_logo.png" alt="The Plugluxx logo">
+                            <img src="img/logo/logo-full-white.png" alt="The Plugluxx logo">
                         </div>
 
                         <p>

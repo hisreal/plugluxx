@@ -56,11 +56,11 @@ $(function () {
             , logo = $(".navbar .logo> img");
         if (bodyScroll > 100) {
             navbar.addClass("nav-scroll");
-            logo.attr('src', 'img/logo-dark.png');
+            logo.attr('src', 'img/logo/logo-full-black.png');
         }
         else {
             navbar.removeClass("nav-scroll");
-            logo.attr('src', 'img/plug_logo.png');
+            logo.attr('src', 'img/img/logo/logo-full-white.png');
         }
     });
     

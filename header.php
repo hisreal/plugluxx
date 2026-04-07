@@ -51,7 +51,7 @@
                 <div class="loader-line-mask">
                     <div class="loader-line"></div>
                 </div>
-                <img src="img/plug_logo.png" alt="The Plugluxx logo">
+                <img src="img/logo/logo-single-white.png" alt="The Plugluxx logo">
             </div>
         </div>
     </div>
@@ -70,7 +70,7 @@
             <!-- Logo -->
             <div class="logo-wrapper">
                 <a class="logo" href="/" aria-label="The Plugluxx Home">
-                    <img src="img/plug_logo.png" class="logo-img" alt="The Plugluxx logo">
+                    <img src="img/logo/logo-full-white.png" class="logo-img" alt="The Plugluxx logo">
                 </a>
             </div>
 
