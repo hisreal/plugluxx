@@ -84,7 +84,7 @@
             <!-- Menu -->
             <div class="collapse navbar-collapse" id="navbar">
                 <ul class="navbar-nav mx-auto">
-                    <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="index">Home</a></li>
                     <li class="nav-item"><a class="nav-link" href="about">About</a></li>
                     <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="services" role="button" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false">Services <i class="fa-light fa-angle-down"></i></a>
                         <ul class="dropdown-menu">
