@@ -125,37 +125,39 @@
           </ul>
         </div>
 
-        <form>
+        <form id="wait-list" method="post">
           <h5 class="tpl-section-title mb-3">Your Details</h5>
 
           <div class="row g-3">
             <div class="col-md-6">
-              <input type="text" class="form-control tpl-input" placeholder="Full Name" required>
+              <input type="text" class="form-control tpl-input" placeholder="Full Name" name="name" >
             </div>
 
             <div class="col-md-6">
-              <input type="email" class="form-control tpl-input" placeholder="Email Address" required>
+              <input type="email" class="form-control tpl-input" placeholder="Email Address" name="email" >
             </div>
 
             <div class="col-md-6">
-              <input type="tel" class="form-control tpl-input" placeholder="Phone Number (WhatsApp)" required>
+              <input type="tel"  name="phone" class="form-control tpl-input" placeholder="Phone Number (WhatsApp)" >
             </div>
 
             <div class="col-md-6">
-              <input type="text" class="form-control tpl-input" placeholder="Location" required>
+              <input type="text" class="form-control tpl-input" placeholder="Location" name="location">
             </div>
 
             <div class="col-12">
-              <select class="form-select tpl-input" required>
+              <select name="interest" class="form-select tpl-input" >
                 <option value="" selected disabled>Select Interest</option>
                 <option>Book luxury services</option>
                 <option>List my property/car/service</option>
                 <option>Co host and earn</option>
               </select>
             </div>
-
+                <div class="col-12">
+                     <div id="alertWaitlist"></div>
+                </div>
             <div class="col-12 pt-2">
-              <button type="submit" class="tpl-submit-btn w-100">Join Waitlist</button>
+              <button type="submit" id="submitBtn" class="tpl-submit-btn w-100">Join Waitlist</button>
             </div>
           </div>
         </form>

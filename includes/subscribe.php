@@ -12,15 +12,13 @@ header('Content-Type: application/json');
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     // Get form values and sanitize
-    $name           = trim($_POST['name'] ?? '');
-    $phone            = trim($_POST['phone'] ?? '');
+    $name           = "The PlugLuxx";
     $email            = trim($_POST['email'] ?? '');
-    $subject           = trim($_POST['subject'] ?? '');
-    $message          = trim($_POST['message'] ?? '');
+
 
     // Validate required fields
-    if (!$name || !$phone || !$email || !$subject || !$message) {
-        echo json_encode(['status' => 'error', 'message' => 'Please fill in all required fields.']);
+    if ( !$email ) {
+        echo json_encode(['status' => 'error', 'message' => 'Please Enter Your Email']);
         exit;
     }
 
@@ -41,35 +39,34 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $mail->Password = "Lifestyle26%";
 
         // IMPORTANT: setFrom should be your domain email (not user's email)
-        $mail->setFrom("info@theplugluxx.com", "Website Contact Form");
+        $mail->setFrom("info@theplugluxx.com", "Subscribers Form");
         $mail->addAddress("info@theplugluxx.com");
         $mail->addReplyTo($email, $name);
 
         $mail->isHTML(true);
-        $mail->Subject = "Contact Details From $name";
+        $mail->Subject = "New Subscriber from $name";
 
         $mail->Body = "
-            <h3>New Contact Form</h3>
+            <h3>Subscribers Request</h3>
             <p><strong>Full Name:</strong> {$name}</p>
-            <p><strong>Phone:</strong> {$phone}</p>
+           
             <p><strong>Email:</strong> {$email}</p>
-            <p><strong>Product:</strong> {$subject}</p>
-            <p><strong>Quantity:</strong> {$message}</p>
+           
         ";
 
         $mail->AltBody = "
-            New Contact Form
+            New Subscribers Request
             
-            Full Name: {$name}
-            Phone: {$phone}
             Email: {$email}
-            Subject: {$subject}
-            Message: {$message}
+            Name: {$name}
         ";
 
         $mail->send();
 
-        echo json_encode(['status' => 'success', 'message' => 'We have successfuly received your message. We will get back to you shorly!']);
+            echo json_encode([
+            'status' => 'success',
+            'message' => "Successfully subscribed"
+            ]);
 
     } catch (Exception $e) {
         echo json_encode(['status' => 'error', 'message' => 'Mailer Error: ' . $mail->ErrorInfo]);

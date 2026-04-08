@@ -78,15 +78,20 @@
                         <p>
                             Stay updated with our latest luxury offerings, experiences, and opportunities. Join our mailing list today.
                         </p>
-
+                        <div id="newsletterAlert"></div>
                         <div class="newsletter">
-                            <form action="#">
-                                <input type="email" placeholder="Email Address" required>
-                                <button type="submit">
+                          	
+						      <form id="newsletter-form" method="POST">
+						         
+                                <input type="email" name="email" placeholder="Email Address">
+                                
+                                <button id="submitBtn" type="submit">
                                     <i class="fa-light fa-arrow-right"></i>
                                 </button>
                             </form>
                         </div>
+                        
+                        
                     </div>
                 </div>
 
@@ -181,6 +186,168 @@ document.addEventListener("DOMContentLoaded", function () {
             });
         });
     </script>
+    
+  <script>
+$(document).ready(function() {
+
+    $('#contact-form').on('submit', function(e) {
+        e.preventDefault();
+
+        let form = $(this);
+        let alertBox = $('#alertMessage');
+        let submitBtn = $('#submitBtn');
+
+        alertBox.html('');
+
+        // Disable button + show loading spinner
+        submitBtn.prop('disabled', true);
+        submitBtn.html('<span class="spinner-border spinner-border-sm"></span> Sending...');
+
+        $.ajax({
+            url: 'includes/send_email.php',
+            type: 'POST',
+            data: form.serialize(),
+            dataType: 'json',
+
+            success: function(response) {
+                console.log("SUCCESS RESPONSE:", response);
+
+                if(response.status === 'success') {
+                    alertBox.html('<div class="alert alert-success">'+response.message+'</div>');
+                    form[0].reset();
+                } else {
+                    alertBox.html('<div class="alert alert-danger">'+response.message+'</div>');
+                }
+            },
+
+            error: function(xhr, status, error) {
+                console.log("STATUS:", status);
+                console.log("ERROR:", error);
+                console.log("RESPONSE TEXT:", xhr.responseText);
+
+                alertBox.html('<div class="alert alert-danger">'+xhr.responseText+'</div>');
+            },
+
+            complete: function() {
+                // Re-enable button
+                submitBtn.prop('disabled', false);
+                submitBtn.html('Send');
+            }
+        });
+    });
+
+});
+</script>
+
+   
+  <script>
+$(document).ready(function() {
+
+    $('#wait-list').on('submit', function(e) {
+        e.preventDefault();
+
+        let form = $(this);
+        let alertBox = $('#alertWaitlist');
+        let submitBtn = $('#submitBtn');
+
+        alertBox.html('');
+
+        // Disable button + show loading spinner
+        submitBtn.prop('disabled', true);
+        submitBtn.html('<span class="spinner-border spinner-border-sm"></span> Sending...');
+
+        $.ajax({
+            url: 'includes/waitlist.php',
+            type: 'POST',
+            data: form.serialize(),
+            dataType: 'json',
+
+            success: function(response) {
+                console.log("SUCCESS RESPONSE:", response);
+
+                if(response.status === 'success') {
+                    alertBox.html('<div class="alert alert-success">'+response.message+'</div>');
+                    form[0].reset();
+                } else {
+                    alertBox.html('<div class="alert alert-danger">'+response.message+'</div>');
+                }
+            },
+
+            error: function(xhr, status, error) {
+                console.log("STATUS:", status);
+                console.log("ERROR:", error);
+                console.log("RESPONSE TEXT:", xhr.responseText);
+
+                alertBox.html('<div class="alert alert-danger">'+xhr.responseText+'</div>');
+            },
+
+            complete: function() {
+                // Re-enable button
+                submitBtn.prop('disabled', false);
+                submitBtn.html('Send');
+            }
+        });
+    });
+
+});
+</script>
+
+
+  
+  <script>
+$(document).ready(function() {
+
+    $('#newsletter-form').on('submit', function(e) {
+        e.preventDefault();
+
+        let form = $(this);
+        let alertBox = $('#newsletterAlert');
+        let submitBtn = $('#submitBtn');
+
+        alertBox.html('');
+
+        // Disable button + show loading spinner
+        submitBtn.prop('disabled', true);
+        submitBtn.html('<span class="spinner-border spinner-border-sm"></span> Sending...');
+
+        $.ajax({
+            url: 'includes/subscribe.php',
+            type: 'POST',
+            data: form.serialize(),
+            dataType: 'json',
+
+            success: function(response) {
+                console.log("SUCCESS RESPONSE:", response);
+
+                if(response.status === 'success') {
+                    alertBox.html('<div class="alert alert-success">'+response.message+'</div>');
+                    form[0].reset();
+                } else {
+                    alertBox.html('<div class="alert alert-danger">'+response.message+'</div>');
+                }
+            },
+
+            error: function(xhr, status, error) {
+                console.log("STATUS:", status);
+                console.log("ERROR:", error);
+                console.log("RESPONSE TEXT:", xhr.responseText);
+
+                alertBox.html('<div class="alert alert-danger">'+xhr.responseText+'</div>');
+            },
+
+            complete: function() {
+                // Re-enable button
+                submitBtn.prop('disabled', false);
+                submitBtn.html('Send');
+            }
+        });
+    });
+
+});
+</script>
+
+
+
 </body>
 
 </html>

@@ -45,7 +45,7 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="map">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d847643.4439617059!2d17.99656904255381!3d-33.91264037784648!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1dcc500f8826eed7%3A0x687fe1fc2828aa87!2sCape%20Town%2C%20South%20Africa!5e0!3m2!1sen!2sng!4v1775067161888!5m2!1sen!2sng" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>                            </div>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d847643.4439617059!2d17.99656904255381!3d-33.91264037784648!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1dcc500f8826eed7%3A0x687fe1fc2828aa87!2sCape%20Town%2C%20South%20Africa!5e0!3m2!1sen!2sng!4v1775067161888!5m2!1sen!2sng" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>                            </div>
                         </div>
                     </div>
                 </div>

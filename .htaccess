@@ -1,0 +1,33 @@
+RewriteEngine On
+
+# -----------------------------
+# FORCE HTTPS + WWW (optional but safe)
+# -----------------------------
+RewriteCond %{HTTPS} off
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+RewriteRule ^includes/ - [L]
+# -----------------------------
+# REMOVE .PHP EXTENSION (GLOBAL RULE)
+# -----------------------------
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.+)$ $1.php [L]
+
+# -----------------------------
+# REDIRECT OLD .PHP URLS TO CLEAN URLS (SEO)
+# -----------------------------
+RewriteCond %{THE_REQUEST} \s/+(.+?)\.php[\s?] [NC]
+RewriteRule ^ %1 [R=301,L]
+
+# -----------------------------
+# REMOVE TRAILING SLASH
+# -----------------------------
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.+)/$ /$1 [R=301,L]
+
+# -----------------------------
+# PHP HANDLER (KEEP ONLY ONE)
+# -----------------------------
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php82___lsphp .php .php8 .phtml
+</IfModule>

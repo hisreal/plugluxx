@@ -1,0 +1,29 @@
+[08-Apr-2026 09:16:52 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/theplugl/public_html/theplugluxx/qservers_mail.php on line 6
+[08-Apr-2026 09:16:52 Africa/Lagos] PHP Warning:  Undefined array key "email" in /home/theplugl/public_html/theplugluxx/qservers_mail.php on line 7
+[08-Apr-2026 09:16:52 Africa/Lagos] PHP Warning:  Undefined array key "message" in /home/theplugl/public_html/theplugluxx/qservers_mail.php on line 8
+[08-Apr-2026 09:16:52 Africa/Lagos] PHP Warning:  Undefined array key "submit" in /home/theplugl/public_html/theplugluxx/qservers_mail.php on line 10
+[08-Apr-2026 09:18:21 Africa/Lagos] PHP Warning:  Undefined array key "name" in /home/theplugl/public_html/theplugluxx/qservers_mail.php on line 6
+[08-Apr-2026 09:18:21 Africa/Lagos] PHP Warning:  Undefined array key "email" in /home/theplugl/public_html/theplugluxx/qservers_mail.php on line 7
+[08-Apr-2026 09:18:21 Africa/Lagos] PHP Warning:  Undefined array key "message" in /home/theplugl/public_html/theplugluxx/qservers_mail.php on line 8
+[08-Apr-2026 09:18:21 Africa/Lagos] PHP Warning:  Undefined array key "submit" in /home/theplugl/public_html/theplugluxx/qservers_mail.php on line 10
+[08-Apr-2026 09:18:35 Africa/Lagos] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in /opt/cpanel/ea-php82/root/usr/share/pear/Mail/mime.php on line 906
+[08-Apr-2026 09:18:35 Africa/Lagos] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /opt/cpanel/ea-php82/root/usr/share/pear/Mail/mimePart.php:314
+Stack trace:
+#0 /opt/cpanel/ea-php82/root/usr/share/pear/Mail/mime.php(1056): Mail_mimePart->encode(NULL, false)
+#1 /home/theplugl/public_html/theplugluxx/qservers_mail.php(30): Mail_mime->get()
+#2 {main}
+  thrown in /opt/cpanel/ea-php82/root/usr/share/pear/Mail/mimePart.php on line 314
+[08-Apr-2026 09:18:43 Africa/Lagos] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in /opt/cpanel/ea-php82/root/usr/share/pear/Mail/mime.php on line 906
+[08-Apr-2026 09:18:43 Africa/Lagos] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /opt/cpanel/ea-php82/root/usr/share/pear/Mail/mimePart.php:314
+Stack trace:
+#0 /opt/cpanel/ea-php82/root/usr/share/pear/Mail/mime.php(1056): Mail_mimePart->encode(NULL, false)
+#1 /home/theplugl/public_html/theplugluxx/qservers_mail.php(30): Mail_mime->get()
+#2 {main}
+  thrown in /opt/cpanel/ea-php82/root/usr/share/pear/Mail/mimePart.php on line 314
+[08-Apr-2026 09:18:46 Africa/Lagos] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in /opt/cpanel/ea-php82/root/usr/share/pear/Mail/mime.php on line 906
+[08-Apr-2026 09:18:46 Africa/Lagos] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /opt/cpanel/ea-php82/root/usr/share/pear/Mail/mimePart.php:314
+Stack trace:
+#0 /opt/cpanel/ea-php82/root/usr/share/pear/Mail/mime.php(1056): Mail_mimePart->encode(NULL, false)
+#1 /home/theplugl/public_html/theplugluxx/qservers_mail.php(30): Mail_mime->get()
+#2 {main}
+  thrown in /opt/cpanel/ea-php82/root/usr/share/pear/Mail/mimePart.php on line 314
