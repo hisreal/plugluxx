@@ -1,4 +1,7 @@
-<?php require_once("header.php"); ?>
+<?php 
+$title = "Luxury Yacht Rentals & Cruises | Private Ocean Experiences – The PlugLuxx";
+$meta = "Enjoy luxury yacht rentals for cruises, events, and private getaways with premium comfort, entertainment, and ocean views.";
+require_once("header.php"); ?>
 <!-- Kenburns SlideShow -->
  <section class="parallax-header valign bg-img bg-fixed" data-overlay-dark="5" data-background="img/hero/marcin-ciszewski-Zexjl0v3MRU-unsplash.jpg">
         <div class="container">

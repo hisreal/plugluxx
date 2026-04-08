@@ -1,4 +1,6 @@
-<?php require_once("header.php"); ?>
+<?php $title = "The PlugLuxx Mobile App | Book Luxury Cars, Homes & Experiences";
+$meta = "The PlugLuxx mobile app lets you book luxury services, manage listings, and earn as a host or co-host. Launching soon worldwide.";
+require_once("header.php"); ?>
 <!-- Kenburns SlideShow -->
  <section class="parallax-header valign bg-img bg-fixed" data-overlay-dark="5" data-background="img/hero/mobilapp.jpg">
         <div class="container">

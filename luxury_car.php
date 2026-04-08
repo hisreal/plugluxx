@@ -1,4 +1,7 @@
-<?php require_once("header.php"); ?>
+<?php 
+$title = "Luxury Apartments, Villas & Short Stays | Premium Property Rentals – The PlugLuxx";
+$meta = "Book luxury apartments, villas, and penthouses for short or long stays with premium comfort, security, and world-class amenities.";
+require_once("header.php"); ?>
 <!-- Kenburns SlideShow -->
  <section class="parallax-header valign bg-img bg-fixed" data-overlay-dark="1" data-background="img/offers/luxury-car-hero.jpg">
         <div class="container">

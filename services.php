@@ -1,4 +1,6 @@
-<?php require_once("header.php"); ?>
+<?php $title = "Luxury Services & Listings | Cars, Villas, Jets & Experiences – The PlugLuxx";
+$meta = "Explore luxury services including cars, villas, hotels, private jets, yachts, and curated experiences designed for premium lifestyle living.";
+require_once("header.php"); ?>
 <!-- Kenburns SlideShow -->
  <section class="parallax-header valign bg-img bg-fixed" data-overlay-dark="1" data-background="img/offers/services-page.png">
         <div class="container">

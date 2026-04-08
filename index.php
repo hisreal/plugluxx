@@ -1,4 +1,7 @@
-<?php require_once("header.php"); ?>
+<?php 
+$title = "Luxury Marketplace for Cars, Properties & Experiences | The PlugLuxx";
+$meta = "Discover luxury cars, premium properties, yachts, jets, and exclusive experiences all in one platform. The PlugLuxx connects you to global luxury.";
+require_once("header.php"); ?>
 <?php require_once("slider.php"); ?>
 <section class="contact about app-launch section-padding bg-lightbrown">
     <div class="container">

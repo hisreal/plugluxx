@@ -1,4 +1,7 @@
-<?php require_once("header.php"); ?>
+<?php 
+$title = "Become a Co-Host & Earn Without Ownership | The PlugLuxx Opportunity";
+$meta = "No property? No problem. Become a co-host on The PlugLuxx and earn income by managing listings and assisting luxury asset owners.";
+require_once("header.php"); ?>
 <!-- Kenburns SlideShow -->
  <section class="parallax-header valign bg-img bg-fixed" data-overlay-dark="5" data-background="img/hero/young-businessman-working-with-mobile-laptop-documentsin-office-business-concept.jpg">
         <div class="container">

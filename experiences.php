@@ -1,4 +1,7 @@
-<?php require_once("header.php"); ?>
+<?php 
+$title = "Luxury Experiences & Lifestyle Services | Coaching & Adventures – The PlugLuxx";
+$meta = "Elevate your lifestyle with luxury experiences including coaching, wellness, adventure activities, and personalized lifestyle sessions.";
+require_once("header.php"); ?>
 <!-- Kenburns SlideShow -->
  <section class="parallax-header valign bg-img bg-fixed" data-overlay-dark="5" data-background="img/hero/113974.jpg">
         <div class="container">

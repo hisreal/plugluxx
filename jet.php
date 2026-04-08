@@ -1,4 +1,7 @@
-<?php require_once("header.php"); ?>
+<?php
+$title = "Private Jet Charter Services | Exclusive Luxury Air Travel – The PlugLuxx";
+$meta = "Charter private jets for exclusive travel with flexible scheduling, luxury interiors, and personalized in-flight experiences.";
+ require_once("header.php"); ?>
 <!-- Kenburns SlideShow -->
  <section class="parallax-header valign bg-img bg-fixed" data-overlay-dark="5" data-background="img/hero/ins_link_DUfQ96SDV2A_9.jpg">
         <div class="container">

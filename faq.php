@@ -1,4 +1,6 @@
-<?php require_once("header.php"); ?>
+<?php $title = "FAQ | Luxury Bookings, Hosting & Earnings – The PlugLuxx Help Center";
+$meta = "Find answers about bookings, hosting, co-hosting, services, and earning opportunities on The PlugLuxx luxury marketplace platform.";
+require_once("header.php"); ?>
 <section class="parallax-header valign bg-img bg-fixed" data-overlay-dark="5" data-background="img/offers/faq.jpg">
         <div class="container">
             <div class="row justify-content-center align-items-center">

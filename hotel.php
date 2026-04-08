@@ -1,4 +1,6 @@
-<?php require_once("header.php"); ?>
+<?php $title = "Luxury Hotel & Short Stay Booking | Premium Hospitality Experiences – The PlugLuxx";
+$meta = "Experience luxury hotel stays and short-let accommodations with premium service, comfort, and exclusive hospitality packages.";
+require_once("header.php"); ?>
 <!-- Kenburns SlideShow -->
  <section class="parallax-header valign bg-img bg-fixed" data-overlay-dark="5" data-background="img/hero/swimming-pool-luxury-hotel.jpg">
         <div class="container">

@@ -4,9 +4,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>ThePlugLuxx | Luxury Experiences, Premium Listings & Hosting Opportunities</title>
+    <title><?php echo $title; ?></title>
 
-    <meta name="description" content="Discover ThePlugLuxx, a premium platform for luxury services, curated listings, short stays, properties, private experiences, hosting, co hosting, and exclusive earning opportunities.">
+    <meta name="description" content="<?php echo $meta; ?>">
 
     <meta name="keywords" content="ThePlugLuxx, luxury services, luxury experiences, premium listings, short stays, luxury properties, private jets, yachts, luxury lifestyle, hosting opportunities, co hosting, luxury bookings, exclusive services, premium travel, luxury accommodation">
 
@@ -86,7 +86,7 @@
             <!-- Menu -->
             <div class="collapse navbar-collapse" id="navbar">
                 <ul class="navbar-nav mx-auto">
-                    <li class="nav-item"><a class="nav-link" href="index">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="">Home</a></li>
                     <li class="nav-item"><a class="nav-link" href="about">About</a></li>
                     <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="services" role="button" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false">Services <i class="fa-light fa-angle-down"></i></a>
                         <ul class="dropdown-menu">

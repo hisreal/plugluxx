@@ -1,4 +1,6 @@
-   <?php require_once("header.php"); ?>
+   <?php $title = "Become a Host & Earn Income | List Luxury Assets on The PlugLuxx";
+$meta = "Turn your car, property, or service into income. Become a host on The PlugLuxx and earn from global luxury bookings and listings.";
+require_once("header.php"); ?>
 <!-- Kenburns SlideShow -->
  <section class="parallax-header valign bg-img bg-fixed" data-overlay-dark="5" data-background="img/hero/professional-man-business-suit-using-smartphone-cozy-office-setting.jpg">
         <div class="container">

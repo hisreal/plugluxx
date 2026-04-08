@@ -1,4 +1,7 @@
-<?php require_once("header.php"); ?>
+<?php 
+$title = "About The PlugLuxx | Global Luxury Marketplace for Premium Lifestyle Access";
+$meta = "Learn about The PlugLuxx, a global luxury marketplace connecting clients to premium cars, properties, hotels, and lifestyle experiences worldwide.";
+require_once("header.php"); ?>
 <!-- Kenburns SlideShow -->
  <section class="parallax-header valign bg-img bg-fixed" data-overlay-dark="2" data-background="img/offers/ins_link_DUfQ96SDV2A_12.jpg">
         <div class="container">

@@ -1,4 +1,8 @@
-<?php require_once("header.php"); ?>
+
+<?php 
+$title = "Contact The PlugLuxx | Luxury Marketplace Support & Partnerships";
+$meta = "Contact The PlugLuxx for inquiries, partnerships, or support. We connect you to luxury cars, properties, and premium lifestyle services.";
+require_once("header.php"); ?>
 <!-- Contact -->
  <section class="parallax-header valign bg-img bg-fixed" data-overlay-dark="5" data-background="img/hero/83.jpg">
         <div class="container">
