@@ -60,7 +60,7 @@
                     <div class="service-block">
                         <h3>Premium Features</h3>
                         <p class="service-block-intro">
-                            Every PlugLuxx vehicle is equipped to deliver maximum comfort, convenience, and class:
+                            ThePlugLuxx vehicle is equipped to deliver maximum comfort, convenience, and class:
                         </p>
 
                         <div class="feature-list-premium">

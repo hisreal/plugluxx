@@ -32,13 +32,13 @@
             <!-- Content Side -->
             <div class="col-lg-6">
                 <div class="about-content">
-                    <div class="section-subtitle">About The PlugLuxx</div>
+                    <div class="section-subtitle">About ThePlugLuxx</div>
                     <h2 class="section-title2 about-title">
                         Connecting luxury providers with clients across the world
                     </h2>
 
                     <p class="about-text">
-                        The PlugLuxx was created to bridge the gap between luxury providers and global clients seeking premium experiences.
+                        ThePlugLuxx was created to bridge the gap between luxury providers and global clients seeking premium experiences.
                     </p>
 
                     <p class="about-text">

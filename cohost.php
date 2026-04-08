@@ -5,7 +5,7 @@
             <div class="row justify-content-center align-items-center">
                  <div class="col-lg-12 col-md-12">
                     <h1>   Become Our <br> Co host </h1>
-                    <p>You don't need to own a property or car to earn on The PlugLuxx<br>Become a Co-Host and start generating income by supporting Hosts.</p>
+                    <p>You don't need to own a property or car to earn on ThePlugLuxx<br>Become a Co-Host and start generating income by supporting Hosts.</p>
                 </div>
                <div class="col-lg-12 col-md-12">
                  
