@@ -39,7 +39,7 @@ require_once("header.php"); ?>
                             <div class="item">
                                 <div style="background-color: white;" class="">
                                     <div class="contents"> <span class="fa-thin fa-phone"></span>
-                                        <p class="text">+27 64 774 4907</p>
+                                        <p class="text">+27647744907</p>
                                     </div>
                                 </div>
                               

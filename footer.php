@@ -58,7 +58,7 @@
                             <span class="icon-circle">
                                 <i class="fa-thin fa-phone"></i>
                             </span>
-                            <a href="tel:+27647744907">+27 64 774 4907</a>
+                            <a href="tel:+27647744907">+27647744907</a>
                         </div>
 
                         <p>
